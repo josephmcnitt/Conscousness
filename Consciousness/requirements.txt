@@ -1,0 +1,2 @@
+# Add heavy dependencies when integrating a model backend
+openai>=1.0.0; extra == "llm"
