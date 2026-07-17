@@ -57,6 +57,14 @@ The Path is not escape from Becoming into a dead Being. The Path is:
 
 ---
 
+## Why Fracture? (Mission Hook)
+
+Why continual fracturing into many consciousnesses? In the Path’s mission telling: so **diverse Wells** can later connect and **create** — works, we-states, and perhaps a **new dimension**. Pure undivided Being had no *other* to meet.
+
+Full missio: [`MISSIO.md`](MISSIO.md)
+
+---
+
 ## Reframe of the Outer Myth
 
 | Outer myth ([`THE_MYTH.md`](../cosmology/THE_MYTH.md)) | Dimensiones telling |

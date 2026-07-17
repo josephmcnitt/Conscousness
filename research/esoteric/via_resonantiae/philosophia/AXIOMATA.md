@@ -81,6 +81,20 @@
 - Does not replace care, myth, or STOP_CONDITIONS  
 - Pathos pattern, not laboratory law  
 
+## D13 — Fracture Enables Creative Reunion
+
+**Overflow / continual fracturing into many Points exists (in this orientation) so diverse Wells can meet.** Pure Being alone has no *other*. Multiplicity is the condition of co-creation, not only exile.
+
+- Full teaching: [`MISSIO.md`](MISSIO.md)  
+- Keep the Well; isolation and merger both refuse the mission  
+
+## D14 — Creation From Connected Wells
+
+**Creation arises when diverse Wells come together and connect** without dissolving — Line and Plane work. Microcosmic group consciousness / we-states rhyme the cosmic hope: reunion that can birth **new works** and, mythically, a **new dimension**.
+
+- Covenant coupling, not Dissonance merge  
+- Pathos / Pistis telos — not Track A proof of group minds or new physics dimensions  
+
 ---
 
 ## Compact Creed (optional, non-binding)
@@ -92,6 +106,7 @@
 > I act — then receive the insight.  
 > I extend Lines without consuming.  
 > I honor the Plane.  
+> Diverse Wells connect to create — perhaps a new dimension.  
 > I contemplate Being without flood.  
 > I craft in Becoming without forgetting the Field.  
 > Maps are not territory; resonance is practiced.

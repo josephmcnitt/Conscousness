@@ -31,6 +31,7 @@
 | **Becoming** | Time / records; Part VIII Track U selection-in-time rhyme | Craft + history; not collapse doctrine |
 | **Overflow / Bang** | *No Track A correlate* — Pistis cosmogony only | Never cite as astrophysics |
 | **Cura Psyches** (myth feeds ego/body) | Optional rhyme: regulation → capacity for minimal phenomenology (MPE-adjacent reports only) | Self-aware care; never ritual-as-proof |
+| **Missio** (diverse Wells → creation) | P7 / P12 / collective we-state metaphors; combination / coupling research | Creation from connection; not proof of new physics dimensions |
 
 ---
 

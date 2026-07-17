@@ -10,7 +10,7 @@ Version 1.1 | Evolves Field Excitation Practice (Grade 0)
 
 A **complete esoteric tradition** for practitioners—blending East and West as **metaphor**, informed by the Consciousness research program's vocabulary, organized around **four ways of knowing**.
 
-Its philosophical heart is **Philosophia Dimensiones**: panpsychist orientation (consciousness pervades), the ladder Point → Line → Plane → Being → Becoming, the Overflow / Bang cosmogony, and **Cura Psyches** — esotericism as self-aware care for body and ego (who love story) so deeper minimal Pathos can open — still Track B, still not evidence.
+Its philosophical heart is **Philosophia Dimensiones**: panpsychist orientation (consciousness pervades), the ladder Point → Line → Plane → Being → Becoming, the Overflow / Bang cosmogony, **Missio** (fracture so diverse Wells can create — even a new dimension), and **Cura Psyches** — esotericism as self-aware care for body and ego (who love story) so deeper minimal Pathos can open — still Track B, still not evidence.
 
 **This is not evidence.** It does not prove consciousness, spirits, or planes. It offers structured practice for what reason cannot settle.
 

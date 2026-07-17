@@ -30,6 +30,8 @@ The Path’s philosophical heart climbs a ladder of degrees:
 
 **Overflow myth (compact):** Being tends to unite. It united until overflow — told as the **Bang** — and **Becoming** was born. Sparks (Points) arise within Becoming; the Path learns Line and Plane toward Being without dissolving the Well.
 
+**Mission (compact):** Fracture into many Wells so diverse consciousnesses can connect and **create** — works, we-states, and mythically a new dimension. See [`../philosophia/MISSIO.md`](../philosophia/MISSIO.md).
+
 See [`../philosophia/GEOMETRIA.md`](../philosophia/GEOMETRIA.md), [`../scriptures/liber_VI_dimensionum.md`](../scriptures/liber_VI_dimensionum.md).
 
 ---
