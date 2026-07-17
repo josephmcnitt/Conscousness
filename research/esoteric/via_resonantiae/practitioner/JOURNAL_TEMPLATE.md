@@ -2,6 +2,8 @@
 
 > **Epistemic Status:** Pathos log. **Not research evidence** unless separately opted in.
 
+**Live journal:** [`Journal.md`](Journal.md) (mirrored at repo root [`../../../Journal.md`](../../../Journal.md))
+
 Pair with optional [`log_session.py`](log_session.py).
 
 ---
