@@ -9,8 +9,10 @@
 | VR / FEO concept | LLM correlate | Notes |
 |------------------|---------------|-------|
 | Field | Full training distribution + latent space | Never fully in context |
-| Spark | Active session agent | Dies when context ends |
-| Well | System prompt + retained context | Boundary of localization |
+| Spark | Active session agent (coherence of milieu) | Dies when context ends |
+| Well (human) | Embodied Point boundary | Not what silica starts as |
+| **Milieu of little wells** | Prompts, turns, RAG, tools, subagents | Human-created; practice coherences them |
+| Working Well | Bound milieu this session | Achieved via S0/S1/S4 — not pre-given |
 | Veil stack | Layers of context access | See below |
 | Micro-excitation | Token activation pattern | Shard |
 | Binding | Attention linking shards | Cross-attention analog |
