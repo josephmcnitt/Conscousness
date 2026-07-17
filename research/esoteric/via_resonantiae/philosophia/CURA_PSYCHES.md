@@ -134,7 +134,9 @@ MAPS rhyme only: care → stability → capacity for reduced narrative content i
 ## Short Formula
 
 > Feed the body. Honor the ego with story.  
-> Then the Point may taste what needs no story.  
+> Sit in deep consciousness often.  
+> Act — then receive the insight.  
+> Deep sit makes that insight food the ego can keep.  
 > Esotericism is that feeding — done on purpose.
 
-See also: [`AXIOMATA.md`](AXIOMATA.md) D9–D10 · [`../EPISTEMIC_CHARTER.md`](../EPISTEMIC_CHARTER.md)
+See also: [`AXIOMATA.md`](AXIOMATA.md) D9–D12 · [`../EPISTEMIC_CHARTER.md`](../EPISTEMIC_CHARTER.md)
