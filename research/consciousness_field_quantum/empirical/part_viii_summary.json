@@ -1,0 +1,47 @@
+{
+  "program": "part_viii_consciousness_field_quantum",
+  "label": "simulation \u2014 not empirical QM confirmation",
+  "seed": 42,
+  "winner": "U",
+  "track_U_total": 1.0,
+  "track_C_total": 0.5025,
+  "prediction_rollup": {
+    "Q1": true,
+    "Q2": true,
+    "Q3": true,
+    "Q4_U": true,
+    "Q4_naive_C_flag": true,
+    "Q5": true,
+    "Q6": true,
+    "Q7": true,
+    "Q8": true,
+    "Q12": true,
+    "M1": true,
+    "M2": true,
+    "M3": true,
+    "M4": true,
+    "M5": true,
+    "M6": true,
+    "M7": true,
+    "M8": true
+  },
+  "metzinger_bridge": {
+    "note": "Metzinger M1\u2013M8 are layer/diagnostics scores \u2014 separate from physics-weighted U vs C totals.",
+    "m_pass_count": 8,
+    "m_total": 8,
+    "layer_lab": {
+      "M1_mpe_profile_match": true,
+      "M2_mpe_to_psm_rises": true,
+      "M6_wigner_grades_diverge": true,
+      "M7_classical_lock": true,
+      "M8_complexity_without_self_not_psm": true
+    },
+    "qm_lab": {
+      "M3_pmir_off_weakens_pointer_alignment": true,
+      "M4_track_u_born_across_layers": true,
+      "M5_track_c_naive_signaling_hard_fail": true
+    }
+  },
+  "scoreboard_path": "C:\\Users\\josep\\Projects\\Consciousness\\research\\consciousness_field_quantum\\empirical\\track_comparison_scoreboard.json",
+  "caveat": "Part VIII shows structural compatibility under toy models. Does not prove a consciousness field or solve the measurement problem. Metzinger bridge adds typed observer order parameters; not a Standard Model field."
+}

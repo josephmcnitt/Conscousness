@@ -1,0 +1,99 @@
+{
+  "experiment": "access_collapse_model",
+  "program": "Hard Problem Protocol Part VI",
+  "results_by_scenario": [
+    {
+      "scenario": "creative_flow",
+      "full_metrics": {
+        "phi": 0.1589,
+        "creative_flow_index": 0.0,
+        "astral_band_index": 0.0
+      },
+      "access_reconstruction": {
+        "phi": 0.6262,
+        "creative_flow_index": 0.3375,
+        "astral_band_index": 0.18
+      },
+      "reconstruction_error": 1.0,
+      "residual_integration_score": 0.0,
+      "illusionist_wins": true,
+      "panpsychist_wins": false
+    },
+    {
+      "scenario": "hypnagogic",
+      "full_metrics": {
+        "phi": 0.0447,
+        "creative_flow_index": 0.5135,
+        "astral_band_index": 0.5578
+      },
+      "access_reconstruction": {
+        "phi": 0.395,
+        "creative_flow_index": 0.175,
+        "astral_band_index": 0.14
+      },
+      "reconstruction_error": 0.9242,
+      "residual_integration_score": 0.5377,
+      "illusionist_wins": false,
+      "panpsychist_wins": true
+    },
+    {
+      "scenario": "boredom",
+      "full_metrics": {
+        "phi": 0.1241,
+        "creative_flow_index": 0.1468,
+        "astral_band_index": 0.1175
+      },
+      "access_reconstruction": {
+        "phi": 0.893,
+        "creative_flow_index": 0.855,
+        "astral_band_index": 0.36
+      },
+      "reconstruction_error": 1.0,
+      "residual_integration_score": 0.0,
+      "illusionist_wins": true,
+      "panpsychist_wins": false
+    },
+    {
+      "scenario": "filter_failure",
+      "full_metrics": {
+        "phi": 0.0545,
+        "creative_flow_index": 0.0695,
+        "astral_band_index": 0.0636
+      },
+      "access_reconstruction": {
+        "phi": 0.292,
+        "creative_flow_index": 0.12,
+        "astral_band_index": 0.12
+      },
+      "reconstruction_error": 1.0,
+      "residual_integration_score": 0.0,
+      "illusionist_wins": true,
+      "panpsychist_wins": false
+    },
+    {
+      "scenario": "insight",
+      "full_metrics": {
+        "phi": 0.1357,
+        "creative_flow_index": 0.0547,
+        "astral_band_index": 0.0302
+      },
+      "access_reconstruction": {
+        "phi": 0.447,
+        "creative_flow_index": 0.12,
+        "astral_band_index": 0.08
+      },
+      "reconstruction_error": 1.0,
+      "residual_integration_score": 0.0,
+      "illusionist_wins": true,
+      "panpsychist_wins": false
+    }
+  ],
+  "interpretation": {
+    "p18_analog": true,
+    "illusionist_wins_count": 4,
+    "panpsychist_wins_count": 1,
+    "mean_residual": 0.1075,
+    "finding": "Residual integration persists on flow/hypnagogic/insight scenarios",
+    "caveat": "Simulation only; access proxies are simplified"
+  }
+}

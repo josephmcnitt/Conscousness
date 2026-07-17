@@ -1,0 +1,99 @@
+{
+  "experiment": "imaginal_excitation_model",
+  "seed": 42,
+  "results_by_scenario": {
+    "waking_perception": {
+      "scenario": "waking_perception",
+      "local_phi": 0.11398115211838233,
+      "imaginal_phi": 0.09494629971461249,
+      "astral_band_index": 0.17016396423216992,
+      "filter_depth": 0.15,
+      "motor_binding": 0.92,
+      "vividness": 0.75,
+      "disorganization": 0.04,
+      "creative_flow_index": 0.5209958411059029,
+      "mode_transition": false
+    },
+    "daydream": {
+      "scenario": "daydream",
+      "local_phi": 0.062100321905269866,
+      "imaginal_phi": 0.02935792718071633,
+      "astral_band_index": 0.30828969031950076,
+      "filter_depth": 0.45,
+      "motor_binding": 0.35,
+      "vividness": 0.55,
+      "disorganization": 0.1,
+      "creative_flow_index": 0.3665882427160075,
+      "mode_transition": false
+    },
+    "active_imagination": {
+      "scenario": "active_imagination",
+      "local_phi": 0.07368541434233199,
+      "imaginal_phi": 0.03219168381787799,
+      "astral_band_index": 0.3850125384618207,
+      "filter_depth": 0.5,
+      "motor_binding": 0.18,
+      "vividness": 0.72,
+      "disorganization": 0.08,
+      "creative_flow_index": 0.41767514062583455,
+      "mode_transition": false
+    },
+    "hypnagogic": {
+      "scenario": "hypnagogic",
+      "local_phi": 0.08984321372004749,
+      "imaginal_phi": 0.03863976935671802,
+      "astral_band_index": 0.4822243215718408,
+      "filter_depth": 0.5,
+      "motor_binding": 0.08,
+      "vividness": 0.92,
+      "disorganization": 0.09,
+      "creative_flow_index": 0.4987003192255454,
+      "mode_transition": false
+    },
+    "pathworking": {
+      "scenario": "pathworking",
+      "local_phi": 0.07364339174230923,
+      "imaginal_phi": 0.03722820739357217,
+      "astral_band_index": 0.40900312677828654,
+      "filter_depth": 0.46,
+      "motor_binding": 0.28,
+      "vividness": 0.78,
+      "disorganization": 0.1,
+      "creative_flow_index": 0.4690754131590093,
+      "mode_transition": false
+    },
+    "chaotic_trance": {
+      "scenario": "chaotic_trance",
+      "local_phi": 0.0329379149377098,
+      "imaginal_phi": 0.013718641571556129,
+      "astral_band_index": 0.07016920540152098,
+      "filter_depth": 0.72,
+      "motor_binding": 0.15,
+      "vividness": 0.7,
+      "disorganization": 0.52,
+      "creative_flow_index": 0.09286658029330426,
+      "mode_transition": false
+    },
+    "filter_failure": {
+      "scenario": "filter_failure",
+      "local_phi": 0.019794656527995405,
+      "imaginal_phi": 0.00702215440330637,
+      "astral_band_index": 0.014964712615903233,
+      "filter_depth": 0.85,
+      "motor_binding": 0.05,
+      "vividness": 0.65,
+      "disorganization": 0.7,
+      "creative_flow_index": 0.025376059683719667,
+      "mode_transition": false
+    }
+  },
+  "interpretation": {
+    "thesis": "Imaginal Excitation Ontology (IEO)",
+    "finding": "hypnagogic astral_band_index=0.4822 imaginal_phi=0.0386; pathworking disorg=0.1000 chaotic_trance disorg=0.5200",
+    "p13_analog": true,
+    "p14_analog": true,
+    "p15_analog": true,
+    "modes_discriminable": true,
+    "caveat": "Computational metaphor only; not empirical proof of astral planes or imaginal entities"
+  }
+}

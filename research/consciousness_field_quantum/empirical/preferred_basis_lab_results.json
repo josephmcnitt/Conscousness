@@ -1,0 +1,12 @@
+{
+  "experiment": "preferred_basis_lab",
+  "label": "simulation \u2014 not empirical QM confirmation",
+  "seed": 42,
+  "interaction_basis": "Z_computational",
+  "offdiag_after_dephase_in_interaction_basis": 0.024893534183931934,
+  "offdiag_comp_after_dephase_in_hadamard_basis": 0.5,
+  "predictions": {
+    "Q3_preferred_basis_alignment": true,
+    "interaction_more_classicalizing": true
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "experiment": "measurement_lab",
+  "label": "simulation \u2014 not empirical QM confirmation",
+  "seed": 42,
+  "track_u_gamma_sweep": [
+    {
+      "gamma": 0.0,
+      "final_purity": 1.0,
+      "final_offdiag": 0.5,
+      "final_entropy": -0.0,
+      "classicality": 0.0,
+      "definiteness": 0.0,
+      "entropy_nondecreasing": true
+    },
+    {
+      "gamma": 0.2,
+      "final_purity": 0.6839397205857223,
+      "final_offdiag": 0.3032653298563176,
+      "final_entropy": 0.49584225802144183,
+      "classicality": 0.3934693402873648,
+      "definiteness": 0.25471435759403316,
+      "entropy_nondecreasing": true
+    },
+    {
+      "gamma": 0.5,
+      "final_purity": 0.5410424993119491,
+      "final_offdiag": 0.14325239843009469,
+      "final_entropy": 0.6515238949341895,
+      "classicality": 0.7134952031398106,
+      "definiteness": 0.4618847104616884,
+      "entropy_nondecreasing": true
+    },
+    {
+      "gamma": 1.0,
+      "final_purity": 0.5033689734995427,
+      "final_offdiag": 0.04104249931194941,
+      "final_entropy": 0.689774413499217,
+      "classicality": 0.9179150013761012,
+      "definiteness": 0.5942168956053415,
+      "entropy_nondecreasing": true
+    },
+    {
+      "gamma": 2.0,
+      "final_purity": 0.5000226999648812,
+      "final_offdiag": 0.0033689734995427235,
+      "final_entropy": 0.6931244804232981,
+      "classicality": 0.9932620530009145,
+      "definiteness": 0.6429931886634034,
+      "entropy_nondecreasing": true
+    }
+  ],
+  "track_c_summary": {
+    "lambda": 0.08,
+    "final_purity": 0.8351600230178202,
+    "final_offdiag": 0.40936537653899124,
+    "requires_collapse_for_classicality": true
+  },
+  "wigner_friend_toy": {
+    "friend_classicality_U": 0.9816843611112659,
+    "wigner_interference_proxy_U": 0.5000000000000001,
+    "wigner_interference_proxy_C": 0.0,
+    "tracks_diverge": true,
+    "noise": 3.047170797544313e-07
+  },
+  "predictions": {
+    "Q1_offdiag_decay_with_gamma": true,
+    "Q1_U_classical_without_lambda": true,
+    "Q5_classical_limit": true,
+    "Q7_entropy_arrow_proxy": true,
+    "Q8_tracks_diverge": true
+  }
+}

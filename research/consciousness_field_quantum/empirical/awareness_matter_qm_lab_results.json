@@ -1,0 +1,47 @@
+{
+  "experiment": "awareness_matter_qm_lab",
+  "label": "simulation \u2014 not empirical QM confirmation",
+  "seed": 42,
+  "m3_preferred_basis": {
+    "pointer_alignment_pmir_on": 0.6885,
+    "pointer_alignment_pmir_off": 0.0022500000000000007,
+    "offdiag_interaction_basis": 0.024893534183931934,
+    "offdiag_wrong_basis": 0.5,
+    "interaction_aligns": true,
+    "pref_score_on": 0.6885,
+    "pref_score_off": 0.0022500000000000007
+  },
+  "m4_born_across_layers": {
+    "mpe": {
+      "tv_selection_vs_born": 0.016750000000000043,
+      "tv_pure_born": 0.010999999999999927,
+      "rho_A": 0.95,
+      "ok": true
+    },
+    "psm": {
+      "tv_selection_vs_born": 0.03650000000000009,
+      "tv_pure_born": 0.0025000000000000577,
+      "rho_A": 1.3905,
+      "ok": true
+    },
+    "pmir": {
+      "tv_selection_vs_born": 0.05650000000000008,
+      "tv_pure_born": 0.007750000000000062,
+      "rho_A": 1.548,
+      "ok": true
+    }
+  },
+  "m5_track_c_rho_A": {
+    "lambda_mpe": 0.076,
+    "lambda_pmir": 0.12384,
+    "observer_density_pmir": 1.548,
+    "signaling_score_U": 0.0,
+    "naive_collapse_signaling_score": 1.0,
+    "rho_A_boosts_lambda": true
+  },
+  "predictions": {
+    "M3_pmir_off_weakens_pointer_alignment": true,
+    "M4_track_u_born_across_layers": true,
+    "M5_track_c_naive_signaling_hard_fail": true
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "experiment": "born_rule_lab",
+  "label": "simulation \u2014 not empirical QM confirmation",
+  "seed": 42,
+  "p_born": [
+    0.7000000000000001,
+    0.29999999999999993
+  ],
+  "track_u": {
+    "p_emp": [
+      0.7056,
+      0.2944
+    ],
+    "tv_born": 0.005599999999999938,
+    "born_fit_score": 1.0
+  },
+  "track_c_lambda_scan": [
+    {
+      "lambda0": 0.001,
+      "lambda": 0.001,
+      "observer_density": 1.0,
+      "tv_born": 0.005600000000000049,
+      "p_emp": [
+        0.6944,
+        0.3056
+      ],
+      "final_purity": 0.9979052412609246
+    },
+    {
+      "lambda0": 0.01,
+      "lambda": 0.01,
+      "observer_density": 1.0,
+      "tv_born": 0.00660000000000005,
+      "p_emp": [
+        0.6934,
+        0.3066
+      ],
+      "final_purity": 0.9795163582903006
+    },
+    {
+      "lambda0": 0.05,
+      "lambda": 0.05,
+      "observer_density": 1.0,
+      "tv_born": 0.0026000000000000467,
+      "p_emp": [
+        0.6974,
+        0.3026
+      ],
+      "final_purity": 0.9070963288899887
+    },
+    {
+      "lambda0": 0.2,
+      "lambda": 0.2,
+      "observer_density": 1.0,
+      "tv_born": 0.001199999999999951,
+      "p_emp": [
+        0.7012,
+        0.2988
+      ],
+      "final_purity": 0.7345093652920067
+    },
+    {
+      "lambda0": 1.0,
+      "lambda": 1.0,
+      "observer_density": 1.0,
+      "tv_born": 0.29999999999999993,
+      "p_emp": [
+        1.0,
+        0.0
+      ],
+      "final_purity": 1.0
+    },
+    {
+      "lambda0": 5.0,
+      "lambda": 5.0,
+      "observer_density": 1.0,
+      "tv_born": 0.7000000000000001,
+      "p_emp": [
+        0.0,
+        1.0
+      ],
+      "final_purity": 1.0
+    }
+  ],
+  "track_c_best": {
+    "lambda0": 0.2,
+    "lambda": 0.2,
+    "observer_density": 1.0,
+    "tv_born": 0.001199999999999951,
+    "p_emp": [
+      0.7012,
+      0.2988
+    ],
+    "final_purity": 0.7345093652920067
+  },
+  "predictions": {
+    "Q2_track_c_born_band": true,
+    "Q2_n_lambda_in_band": 4,
+    "track_u_born_ok": true
+  }
+}

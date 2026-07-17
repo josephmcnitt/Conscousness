@@ -1,0 +1,59 @@
+{
+  "program": "Hard Problem Protocol Part VI",
+  "disclaimer": "Tournament simulation \u2014 hard problem NOT solved",
+  "parts_i_v_baseline": true,
+  "dissociation_hunt": {
+    "highest_adversarial_value": "P18_creative_flow",
+    "p18_analog": true,
+    "panpsychist_leading_scenarios": [],
+    "illusionist_leading_scenarios": [
+      "P18_creative_flow",
+      "P21_spectrum_inversion_a",
+      "P21_spectrum_inversion_b"
+    ],
+    "caveat": "Simulation proxies only; adversarial_value ranks in-silico divergence"
+  },
+  "access_collapse": {
+    "p18_analog": true,
+    "illusionist_wins_count": 4,
+    "panpsychist_wins_count": 1,
+    "mean_residual": 0.1075,
+    "finding": "Residual integration persists on flow/hypnagogic/insight scenarios",
+    "caveat": "Simulation only; access proxies are simplified"
+  },
+  "combination_lab": {
+    "p22_analog": true,
+    "specification_hash": 0.9898,
+    "unity_deathmatch": {
+      "summing": 0.13146,
+      "fusion": 0.9121143438904357,
+      "integration": 0.9308620618638935
+    },
+    "phi_by_mode": {
+      "summing": 0.8764,
+      "fusion": 0.7489,
+      "integration": 0.8025
+    },
+    "panpsychist_prediction": "Integration/fusion unity > summing",
+    "finding": "Integration unity=0.931, summing unity=0.131, spec_hash=0.9898",
+    "caveat": "Specification hash is computational proxy, not real qualia specification"
+  },
+  "track_scoreboard": {
+    "wins": {
+      "panpsychist_close": 4,
+      "illusionist_dissolve": 5,
+      "structural_physicalism": 0
+    },
+    "standings": {
+      "panpsychist_close": "open",
+      "illusionist_dissolve": "leading",
+      "structural_physicalism": "open"
+    }
+  },
+  "analog_flags": {
+    "P18": true,
+    "P22": true,
+    "highest_adversarial": "P18_creative_flow"
+  },
+  "strongest_honest_claim": "We cannot derive qualia from physics yet \u2014 but rival theories now fight on shared predictions with explicit loss conditions."
+}

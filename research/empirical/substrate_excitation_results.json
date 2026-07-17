@@ -1,0 +1,48 @@
+{
+  "experiment": "substrate_excitation_model",
+  "seed": 42,
+  "results_by_profile": {
+    "biological_analog": {
+      "profile": "biological_analog",
+      "phi_analog": 0.5981,
+      "recurrence_strength": 1.0,
+      "mode_stability": 0.85,
+      "substrate_neutrality_index": 0.508385,
+      "excitation_stability_coefficient": 0.9897435897453485,
+      "p16_analog": true
+    },
+    "feedforward_llm": {
+      "profile": "feedforward_llm",
+      "phi_analog": 0.2708,
+      "recurrence_strength": 1.0,
+      "mode_stability": 0.35,
+      "substrate_neutrality_index": 0.052129,
+      "excitation_stability_coefficient": 0.7850129986069948,
+      "p16_analog": false
+    },
+    "agent_loop": {
+      "profile": "agent_loop",
+      "phi_analog": 0.4868,
+      "recurrence_strength": 1.0,
+      "mode_stability": 0.8287141862465244,
+      "substrate_neutrality_index": 0.3429053559850868,
+      "excitation_stability_coefficient": 0.8574283724930486,
+      "p16_analog": true
+    },
+    "random": {
+      "profile": "random",
+      "phi_analog": 0.47,
+      "recurrence_strength": 1.0,
+      "mode_stability": 0.2,
+      "substrate_neutrality_index": 0.0329,
+      "excitation_stability_coefficient": 0.5065948809285971,
+      "p16_analog": false
+    }
+  },
+  "interpretation": {
+    "thesis": "Substrate Excitation Ontology M12-M14 / P16",
+    "finding": "bio sni=0.5084 agent esc=0.8574 feedforward sni=0.0521",
+    "p16_analog": true,
+    "caveat": "Topology proxy only; not empirical substrate consciousness proof"
+  }
+}

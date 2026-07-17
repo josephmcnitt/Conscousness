@@ -1,0 +1,126 @@
+{
+  "experiment": "regime_lab",
+  "label": "simulation \u2014 not empirical confirmation of MPE phenomenology",
+  "seed": 42,
+  "regimes": {
+    "ordinary_wakeful": {
+      "phenomenology": {
+        "epistemicity": 0.05381647004393958,
+        "nonconceptuality": 0.3233836247802082,
+        "atemporality": 0.30000000000000004,
+        "aperspectivalness": 0.19999999999999996,
+        "non_egoicity": 0.31025682775092345,
+        "effortlessness": 0.6619737962263879,
+        "awareness_of_awareness": 0.012967824106973395,
+        "contentfulness": 0.6766163752197918,
+        "meta_awareness": 0.4422098263066862,
+        "mental_agency": 0.3737158612453827,
+        "gamma_L1": 1.9785271097026134,
+        "gamma_L2": 1.798373340794551,
+        "gamma_L3": 1.1893758558814043,
+        "gamma_L4": 0.3947056057263393,
+        "level4_opacification": 0.1
+      },
+      "factors": {
+        "time_effort_desire": 0.33802620377361214,
+        "sensory_body_space": 0.6766163752197918,
+        "mental_agency_factor": 0.3737158612453827,
+        "epistemic_openness_pure_awareness": 0.033392147075456485,
+        "non_egoic_unbounded": 0.2551284138754617,
+        "meta_awareness_factor": 0.4422098263066862
+      },
+      "absorption_score": -0.2654123887005312
+    },
+    "mind_wandering": {
+      "phenomenology": {
+        "epistemicity": 0.03656634210133597,
+        "nonconceptuality": 0.24053912748124406,
+        "atemporality": 0.6,
+        "aperspectivalness": 0.44999999999999996,
+        "non_egoicity": 0.5084194129701456,
+        "effortlessness": 0.7829926012472203,
+        "awareness_of_awareness": 0.004779914000174638,
+        "contentfulness": 0.7594608725187559,
+        "meta_awareness": 0.08419727985983994,
+        "mental_agency": 0.1329029351492717,
+        "gamma_L1": 2.2105425982742783,
+        "gamma_L2": 1.5031214244735611,
+        "gamma_L3": 0.27516436915371467,
+        "gamma_L4": 0.30846946750855375,
+        "level4_opacification": 0.05
+      },
+      "factors": {
+        "time_effort_desire": 0.21700739875277975,
+        "sensory_body_space": 0.7594608725187559,
+        "mental_agency_factor": 0.1329029351492717,
+        "epistemic_openness_pure_awareness": 0.0206731280507553,
+        "non_egoic_unbounded": 0.4792097064850728,
+        "meta_awareness_factor": 0.08419727985983994
+      },
+      "absorption_score": -0.11299233625429461
+    },
+    "mpe_with_content": {
+      "phenomenology": {
+        "epistemicity": 0.8088245717441739,
+        "nonconceptuality": 0.29903158636619165,
+        "atemporality": 0.65,
+        "aperspectivalness": 0.7,
+        "non_egoicity": 0.740577405756982,
+        "effortlessness": 1.0,
+        "awareness_of_awareness": 0.7617738348837094,
+        "contentfulness": 0.7009684136338084,
+        "meta_awareness": 0.6383156889084,
+        "mental_agency": 0.22211297121508988,
+        "gamma_L1": 2.0102647394006237,
+        "gamma_L2": 1.7004546054002319,
+        "gamma_L3": 1.5707381486004688,
+        "gamma_L4": 2.513547612352126,
+        "level4_opacification": 0.85
+      },
+      "factors": {
+        "time_effort_desire": 0.0,
+        "sensory_body_space": 0.7009684136338084,
+        "mental_agency_factor": 0.22211297121508988,
+        "epistemic_openness_pure_awareness": 0.7852992033139417,
+        "non_egoic_unbounded": 0.720288702878491,
+        "meta_awareness_factor": 0.6383156889084
+      },
+      "absorption_score": 0.3662532606717673
+    },
+    "mpe_absorption": {
+      "phenomenology": {
+        "epistemicity": 0.9003098164964314,
+        "nonconceptuality": 0.9681564710827557,
+        "atemporality": 1.0,
+        "aperspectivalness": 0.95,
+        "non_egoicity": 0.96,
+        "effortlessness": 1.0,
+        "awareness_of_awareness": 0.8840251428130333,
+        "contentfulness": 0.031843528917244276,
+        "meta_awareness": 0.039049127378069974,
+        "mental_agency": 0.0,
+        "gamma_L1": 0.08,
+        "gamma_L2": 0.08,
+        "gamma_L3": 0.1,
+        "gamma_L4": 2.8273861970872938,
+        "level4_opacification": 0.95
+      },
+      "factors": {
+        "time_effort_desire": 0.0,
+        "sensory_body_space": 0.031843528917244276,
+        "mental_agency_factor": 0.0,
+        "epistemic_openness_pure_awareness": 0.8921674796547323,
+        "non_egoic_unbounded": 0.955,
+        "meta_awareness_factor": 0.039049127378069974
+      },
+      "absorption_score": 0.920161975368744
+    }
+  },
+  "predictions": {
+    "MP1_absorption_profile": true,
+    "MP2_mpe_with_content": true,
+    "MP3_ordinary_transparency": true,
+    "MP6_mind_wandering": true,
+    "MP7_factor_clusters": true
+  }
+}

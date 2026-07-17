@@ -1,0 +1,83 @@
+{
+  "experiment": "track_comparison_scoreboard",
+  "label": "simulation \u2014 not empirical QM confirmation",
+  "seed": 42,
+  "comparison": {
+    "weights": {
+      "born_fit": 0.3,
+      "no_signaling": 0.25,
+      "decoherence_match": 0.2,
+      "classical_limit": 0.1,
+      "preferred_basis": 0.1,
+      "occam_physics_acceptance": 0.05
+    },
+    "track_U_scores": {
+      "born_fit": 1.0,
+      "no_signaling": 1.0,
+      "decoherence_match": 1.0,
+      "classical_limit": 1.0,
+      "preferred_basis": 1.0,
+      "occam_physics_acceptance": 1.0
+    },
+    "track_C_scores": {
+      "born_fit": 1.0,
+      "no_signaling": 0.0,
+      "decoherence_match": 0.3,
+      "classical_limit": 0.8,
+      "preferred_basis": 0.5,
+      "occam_physics_acceptance": 0.25
+    },
+    "track_U_total": 1.0,
+    "track_C_total": 0.5025,
+    "winner": "U",
+    "hard_fail_U": false,
+    "hard_fail_C": true,
+    "Q12_U_preferred_or_tied_on_constraints": true
+  },
+  "prediction_rollup": {
+    "Q1": true,
+    "Q2": true,
+    "Q3": true,
+    "Q4_U": true,
+    "Q4_naive_C_flag": true,
+    "Q5": true,
+    "Q6": true,
+    "Q7": true,
+    "Q8": true,
+    "Q12": true,
+    "M1": true,
+    "M2": true,
+    "M3": true,
+    "M4": true,
+    "M5": true,
+    "M6": true,
+    "M7": true,
+    "M8": true
+  },
+  "metzinger_bridge": {
+    "note": "Metzinger M1\u2013M8 are layer/diagnostics scores \u2014 separate from physics-weighted U vs C totals.",
+    "m_pass_count": 8,
+    "m_total": 8,
+    "layer_lab": {
+      "M1_mpe_profile_match": true,
+      "M2_mpe_to_psm_rises": true,
+      "M6_wigner_grades_diverge": true,
+      "M7_classical_lock": true,
+      "M8_complexity_without_self_not_psm": true
+    },
+    "qm_lab": {
+      "M3_pmir_off_weakens_pointer_alignment": true,
+      "M4_track_u_born_across_layers": true,
+      "M5_track_c_naive_signaling_hard_fail": true
+    }
+  },
+  "lab_paths": {
+    "measurement": "C:\\Users\\josep\\Projects\\Consciousness\\research\\consciousness_field_quantum\\empirical\\measurement_lab_results.json",
+    "preferred_basis": "C:\\Users\\josep\\Projects\\Consciousness\\research\\consciousness_field_quantum\\empirical\\preferred_basis_lab_results.json",
+    "born_rule": "C:\\Users\\josep\\Projects\\Consciousness\\research\\consciousness_field_quantum\\empirical\\born_rule_lab_results.json",
+    "entanglement": "C:\\Users\\josep\\Projects\\Consciousness\\research\\consciousness_field_quantum\\empirical\\entanglement_lab_results.json",
+    "metzinger_layer": "C:\\Users\\josep\\Projects\\Consciousness\\research\\consciousness_field_quantum\\empirical\\metzinger_layer_lab_results.json",
+    "awareness_matter_qm": "C:\\Users\\josep\\Projects\\Consciousness\\research\\consciousness_field_quantum\\empirical\\awareness_matter_qm_lab_results.json"
+  },
+  "caveat": "Part VIII shows structural compatibility under toy models. Does not prove a consciousness field or solve the measurement problem. Metzinger bridge adds typed observer order parameters; not a Standard Model field."
+}

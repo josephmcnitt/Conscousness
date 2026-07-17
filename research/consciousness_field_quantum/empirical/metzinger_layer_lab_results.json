@@ -1,0 +1,147 @@
+{
+  "experiment": "metzinger_layer_lab",
+  "label": "simulation \u2014 not empirical QM confirmation",
+  "seed": 42,
+  "layers": {
+    "mpe": {
+      "wakefulness": 0.95,
+      "low_complexity": 0.9,
+      "epistemicity": 0.85,
+      "introspective_availability": 0.6,
+      "transparency": 0.0,
+      "ownership": 0.0,
+      "perspectivalness": 0.0,
+      "selfhood": 0.0,
+      "intentional_arrow": 0.0,
+      "diachronic": 0.0,
+      "mpe_active": true,
+      "psm_active": false,
+      "pmir_active": false,
+      "rho_A": 0.95
+    },
+    "psm": {
+      "wakefulness": 0.9,
+      "low_complexity": 0.44999999999999996,
+      "epistemicity": 0.75,
+      "introspective_availability": 0.25,
+      "transparency": 0.9,
+      "ownership": 0.8,
+      "perspectivalness": 0.4,
+      "selfhood": 0.85,
+      "intentional_arrow": 0.35,
+      "diachronic": 0.75,
+      "mpe_active": false,
+      "psm_active": true,
+      "pmir_active": false,
+      "rho_A": 1.3905
+    },
+    "pmir": {
+      "wakefulness": 0.9,
+      "low_complexity": 0.4,
+      "epistemicity": 0.8,
+      "introspective_availability": 0.2,
+      "transparency": 0.92,
+      "ownership": 0.88,
+      "perspectivalness": 0.9,
+      "selfhood": 0.9,
+      "intentional_arrow": 0.85,
+      "diachronic": 0.8,
+      "mpe_active": false,
+      "psm_active": true,
+      "pmir_active": true,
+      "rho_A": 1.548
+    },
+    "promoted_mpe_to_psm": {
+      "wakefulness": 0.95,
+      "low_complexity": 0.55,
+      "epistemicity": 0.85,
+      "introspective_availability": 0.6,
+      "transparency": 0.9,
+      "ownership": 0.8,
+      "perspectivalness": 0.35,
+      "selfhood": 0.85,
+      "intentional_arrow": 0.3,
+      "diachronic": 0.75,
+      "mpe_active": false,
+      "psm_active": true,
+      "pmir_active": false
+    },
+    "promoted_to_pmir": {
+      "wakefulness": 0.95,
+      "low_complexity": 0.55,
+      "epistemicity": 0.85,
+      "introspective_availability": 0.6,
+      "transparency": 0.9,
+      "ownership": 0.8,
+      "perspectivalness": 0.9,
+      "selfhood": 0.85,
+      "intentional_arrow": 0.85,
+      "diachronic": 0.75,
+      "mpe_active": false,
+      "psm_active": true,
+      "pmir_active": true
+    },
+    "high_complexity_no_self": {
+      "wakefulness": 0.75,
+      "low_complexity": 0.09999999999999998,
+      "epistemicity": 0.5,
+      "introspective_availability": 0.2,
+      "transparency": 0.1,
+      "ownership": 0.05,
+      "perspectivalness": 0.05,
+      "selfhood": 0.05,
+      "intentional_arrow": 0.05,
+      "diachronic": 0.05,
+      "mpe_active": false,
+      "psm_active": false,
+      "pmir_active": false
+    }
+  },
+  "m1_mpe_profile": {
+    "vector": {
+      "wakefulness": 0.95,
+      "low_complexity": 0.9,
+      "epistemicity": 0.85,
+      "introspective_availability": 0.6,
+      "transparency": 0.0,
+      "ownership": 0.0,
+      "perspectivalness": 0.0,
+      "selfhood": 0.0,
+      "intentional_arrow": 0.0,
+      "diachronic": 0.0
+    },
+    "checks": {
+      "wakefulness_high": true,
+      "complexity_low": true,
+      "selfhood_low": true,
+      "perspectival_low": true,
+      "mpe_predicate": true
+    },
+    "match_score": 1.0,
+    "pass": true,
+    "tol": 0.25
+  },
+  "classical_lock": {
+    "class_low_gamma": 0.09516258196404148,
+    "class_high_gamma": 0.9816843611112659,
+    "lock_low": 0.07879461786622635,
+    "lock_high": 0.8128346510001282
+  },
+  "wigner_grade_split": {
+    "friend_classicality": 0.9092820467105875,
+    "lock_mpe": 0.0,
+    "lock_psm": 0.7528855346763665,
+    "interference_proxy_mpe_friend": 0.3953589766447062,
+    "interference_proxy_psm_friend": 0.13184903950797794,
+    "grades_diverge": true,
+    "rho_A_mpe": 0.95,
+    "rho_A_psm": 1.548
+  },
+  "predictions": {
+    "M1_mpe_profile_match": true,
+    "M2_mpe_to_psm_rises": true,
+    "M6_wigner_grades_diverge": true,
+    "M7_classical_lock": true,
+    "M8_complexity_without_self_not_psm": true
+  }
+}

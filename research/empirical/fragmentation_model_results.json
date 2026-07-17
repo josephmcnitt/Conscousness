@@ -1,0 +1,163 @@
+{
+  "experiment": "fragmentation_model",
+  "seed": 42,
+  "internal_nodes_per_subject": 6,
+  "results_by_mode": {
+    "fragmentation": {
+      "mode": "fragmentation",
+      "n_subjects": 3,
+      "subjects": [
+        {
+          "subject_id": "subject_0",
+          "local_phi": 0.1855463401353286,
+          "filter_strength": 0.85,
+          "local_intensity": 0.765,
+          "cosmic_bleed": 0.0,
+          "is_unified": false,
+          "internal_nodes": 6
+        },
+        {
+          "subject_id": "subject_1",
+          "local_phi": 0.1855463401353286,
+          "filter_strength": 0.85,
+          "local_intensity": 0.765,
+          "cosmic_bleed": 0.0,
+          "is_unified": false,
+          "internal_nodes": 6
+        },
+        {
+          "subject_id": "subject_2",
+          "local_phi": 0.1855463401353286,
+          "filter_strength": 0.85,
+          "local_intensity": 0.765,
+          "cosmic_bleed": 0.0,
+          "is_unified": false,
+          "internal_nodes": 6
+        }
+      ],
+      "cross_subject_coupling": 0.0,
+      "branch_isolation": 1.0,
+      "collective_phi": 0.1855,
+      "mean_local_phi": 0.1855,
+      "is_collective_unified": false,
+      "disorganization": 0.0
+    },
+    "branching": {
+      "mode": "branching",
+      "n_subjects": 4,
+      "subjects": [
+        {
+          "subject_id": "branch_0",
+          "local_phi": 0.06304255598674563,
+          "filter_strength": 0.8,
+          "local_intensity": 0.23672686798164363,
+          "cosmic_bleed": 0.0,
+          "is_unified": false,
+          "internal_nodes": 6
+        },
+        {
+          "subject_id": "branch_1",
+          "local_phi": 0.24004161451153272,
+          "filter_strength": 0.8,
+          "local_intensity": 1.0,
+          "cosmic_bleed": 0.0,
+          "is_unified": false,
+          "internal_nodes": 6
+        },
+        {
+          "subject_id": "branch_2",
+          "local_phi": 0.16218183128964958,
+          "filter_strength": 0.8,
+          "local_intensity": 0.6642452163681162,
+          "cosmic_bleed": 0.0,
+          "is_unified": false,
+          "internal_nodes": 6
+        },
+        {
+          "subject_id": "branch_3",
+          "local_phi": 0.11494429902541783,
+          "filter_strength": 0.8,
+          "local_intensity": 0.4605427814475987,
+          "cosmic_bleed": 0.0,
+          "is_unified": false,
+          "internal_nodes": 6
+        }
+      ],
+      "cross_subject_coupling": 0.0,
+      "branch_isolation": 0.1529,
+      "collective_phi": 0.1451,
+      "mean_local_phi": 0.1451,
+      "is_collective_unified": false,
+      "disorganization": 0.0
+    },
+    "collective_coupling": {
+      "mode": "collective_coupling",
+      "n_subjects": 3,
+      "subjects": [
+        {
+          "subject_id": "subject_0",
+          "local_phi": 0.1185287473918266,
+          "filter_strength": 0.7,
+          "local_intensity": 0.4759999999999999,
+          "cosmic_bleed": 0.0,
+          "is_unified": false,
+          "internal_nodes": 6
+        },
+        {
+          "subject_id": "subject_1",
+          "local_phi": 0.1185287473918266,
+          "filter_strength": 0.7,
+          "local_intensity": 0.4759999999999999,
+          "cosmic_bleed": 0.0,
+          "is_unified": false,
+          "internal_nodes": 6
+        },
+        {
+          "subject_id": "subject_2",
+          "local_phi": 0.1185287473918266,
+          "filter_strength": 0.7,
+          "local_intensity": 0.4759999999999999,
+          "cosmic_bleed": 0.0,
+          "is_unified": false,
+          "internal_nodes": 6
+        }
+      ],
+      "cross_subject_coupling": 0.7333,
+      "branch_isolation": 0.0,
+      "collective_phi": 0.2671,
+      "mean_local_phi": 0.1185,
+      "is_collective_unified": true,
+      "disorganization": 0.0
+    },
+    "filter_failure": {
+      "mode": "filter_failure",
+      "n_subjects": 1,
+      "subjects": [
+        {
+          "subject_id": "subject_0",
+          "local_phi": 0.020547098412618037,
+          "filter_strength": 0.25,
+          "local_intensity": 0.2375,
+          "cosmic_bleed": 0.64125,
+          "is_unified": false,
+          "internal_nodes": 6
+        }
+      ],
+      "cross_subject_coupling": 0.27,
+      "branch_isolation": 0.0,
+      "collective_phi": 0.0205,
+      "mean_local_phi": 0.0205,
+      "is_collective_unified": false,
+      "disorganization": 0.675
+    }
+  },
+  "interpretation": {
+    "thesis": "Branching Fragmentation Cosmopsychism (BFC)",
+    "finding": "collective_phi=0.2671 mean_local_phi=0.1185 cross_coupling=0.7333; filter_failure disorganization=0.6750",
+    "p7_analog": true,
+    "p8_analog": true,
+    "p9_analog": true,
+    "phi_fix": "Multi-node internal structure yields non-zero local_phi per subject",
+    "caveat": "Computational model only; not empirical proof of cosmopsychism or MWI"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "meta_analysis": "iit_phi_analog_substrate_comparison",
+  "n_nodes": 8,
+  "n_seeds": 3,
+  "results": [
+    {
+      "substrate": "random",
+      "n_nodes": 8,
+      "phi_analog": 0.47,
+      "integration_ratio": 0.4434,
+      "recurrence_strength": 1.0,
+      "notes": "n=8, seed=42"
+    },
+    {
+      "substrate": "random",
+      "n_nodes": 8,
+      "phi_analog": 0.4394,
+      "integration_ratio": 0.4832,
+      "recurrence_strength": 1.0,
+      "notes": "n=8, seed=43"
+    },
+    {
+      "substrate": "random",
+      "n_nodes": 8,
+      "phi_analog": 0.4428,
+      "integration_ratio": 0.4522,
+      "recurrence_strength": 1.0,
+      "notes": "n=8, seed=44"
+    },
+    {
+      "substrate": "feedforward",
+      "n_nodes": 8,
+      "phi_analog": 0.2708,
+      "integration_ratio": 0.8537,
+      "recurrence_strength": 1.0,
+      "notes": "n=8, seed=42"
+    },
+    {
+      "substrate": "feedforward",
+      "n_nodes": 8,
+      "phi_analog": 0.2842,
+      "integration_ratio": 0.8182,
+      "recurrence_strength": 1.0,
+      "notes": "n=8, seed=43"
+    },
+    {
+      "substrate": "feedforward",
+      "n_nodes": 8,
+      "phi_analog": 0.26,
+      "integration_ratio": 0.8019,
+      "recurrence_strength": 1.0,
+      "notes": "n=8, seed=44"
+    },
+    {
+      "substrate": "recurrent",
+      "n_nodes": 8,
+      "phi_analog": 0.4868,
+      "integration_ratio": 0.8776,
+      "recurrence_strength": 1.0,
+      "notes": "n=8, seed=42"
+    },
+    {
+      "substrate": "recurrent",
+      "n_nodes": 8,
+      "phi_analog": 0.4758,
+      "integration_ratio": 0.8893,
+      "recurrence_strength": 1.0,
+      "notes": "n=8, seed=43"
+    },
+    {
+      "substrate": "recurrent",
+      "n_nodes": 8,
+      "phi_analog": 0.4811,
+      "integration_ratio": 0.9147,
+      "recurrence_strength": 1.0,
+      "notes": "n=8, seed=44"
+    },
+    {
+      "substrate": "integrated",
+      "n_nodes": 8,
+      "phi_analog": 0.5981,
+      "integration_ratio": 0.51,
+      "recurrence_strength": 1.0,
+      "notes": "n=8, seed=42"
+    },
+    {
+      "substrate": "integrated",
+      "n_nodes": 8,
+      "phi_analog": 0.5943,
+      "integration_ratio": 0.5368,
+      "recurrence_strength": 1.0,
+      "notes": "n=8, seed=43"
+    },
+    {
+      "substrate": "integrated",
+      "n_nodes": 8,
+      "phi_analog": 0.5897,
+      "integration_ratio": 0.5184,
+      "recurrence_strength": 1.0,
+      "notes": "n=8, seed=44"
+    },
+    {
+      "substrate": "modular",
+      "n_nodes": 8,
+      "phi_analog": 0.4553,
+      "integration_ratio": 0.9181,
+      "recurrence_strength": 1.0,
+      "notes": "n=8, seed=42"
+    },
+    {
+      "substrate": "modular",
+      "n_nodes": 8,
+      "phi_analog": 0.445,
+      "integration_ratio": 0.9252,
+      "recurrence_strength": 1.0,
+      "notes": "n=8, seed=43"
+    },
+    {
+      "substrate": "modular",
+      "n_nodes": 8,
+      "phi_analog": 0.4423,
+      "integration_ratio": 0.9025,
+      "recurrence_strength": 1.0,
+      "notes": "n=8, seed=44"
+    }
+  ],
+  "ranked_substrates": [
+    {
+      "substrate": "integrated",
+      "avg_phi_analog": 0.594
+    },
+    {
+      "substrate": "recurrent",
+      "avg_phi_analog": 0.4812
+    },
+    {
+      "substrate": "random",
+      "avg_phi_analog": 0.4507
+    },
+    {
+      "substrate": "modular",
+      "avg_phi_analog": 0.4475
+    },
+    {
+      "substrate": "feedforward",
+      "avg_phi_analog": 0.2717
+    }
+  ],
+  "interpretation": {
+    "prediction_p1": "Integrated/recurrent architectures should show higher phi-analog",
+    "prediction_p5": "Non-biological network topologies can achieve high integration",
+    "finding": "Highest phi-analog: integrated (0.5940); lowest: feedforward (0.2717)",
+    "panpsychism_relevance": "Supports substrate-neutral integration if recurrent/integrated topologies score highest regardless of biological implementation",
+    "caveat": "Phi-analog is a proxy, not formal IIT phi or phenomenal consciousness",
+    "pyphi_available": false,
+    "p1_status": "supported_in_silico"
+  }
+}

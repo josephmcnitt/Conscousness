@@ -1,0 +1,23 @@
+{
+  "program": "mpe_computational_phenomenology",
+  "label": "simulation \u2014 not empirical confirmation of MPE phenomenology",
+  "seed": 42,
+  "ontology_claims_asserted": false,
+  "disclaimer": "Architecture-faithful toy NumPy model of MPE Project Subproject 3. Not an official MPE Project model. Not a prize submission. Does not assert a consciousness field or physical substrate.",
+  "prediction_rollup": {
+    "MP1_absorption_profile": true,
+    "MP2_mpe_with_content": true,
+    "MP3_ordinary_transparency": true,
+    "MP6_mind_wandering": true,
+    "MP7_factor_clusters": true,
+    "MP4_attenuation_raises_absorption": true,
+    "MP5_restore_exits_without_killing_L4": true,
+    "MP8_no_ontology_claim": true
+  },
+  "mp_pass_count": 8,
+  "mp_total": 8,
+  "lab_paths": {
+    "regime": "C:\\Users\\josep\\Projects\\Consciousness\\research\\mpe_computational\\empirical\\regime_lab_results.json",
+    "transition": "C:\\Users\\josep\\Projects\\Consciousness\\research\\mpe_computational\\empirical\\transition_lab_results.json"
+  }
+}

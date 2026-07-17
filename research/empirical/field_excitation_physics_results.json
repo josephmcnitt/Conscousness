@@ -1,0 +1,107 @@
+{
+  "experiment": "field_excitation_physics",
+  "seed": 42,
+  "results_by_scenario": {
+    "solo_rest": {
+      "scenario": "solo_rest",
+      "mean_order_parameter": 0.07827870002483857,
+      "final_order_parameter": 0.10676802753500858,
+      "mean_phi": 0.12953994890556594,
+      "mean_creative_flow_index": 0.07359393091441116,
+      "mean_astral_band_index": 0.04710011578522315,
+      "mode_transition": false,
+      "frequency_dispersion": 0.05,
+      "time_series": null
+    },
+    "creative_improv": {
+      "scenario": "creative_improv",
+      "mean_order_parameter": 0.33985996355225523,
+      "final_order_parameter": 0.9866677616369113,
+      "mean_phi": 0.14773774813229024,
+      "mean_creative_flow_index": 0.05280610568261809,
+      "mean_astral_band_index": 0.020567155620768305,
+      "mode_transition": false,
+      "frequency_dispersion": 0.08,
+      "time_series": null
+    },
+    "filter_failure": {
+      "scenario": "filter_failure",
+      "mean_order_parameter": 0.41620639154355416,
+      "final_order_parameter": 0.25038281717989475,
+      "mean_phi": 0.15304904967402935,
+      "mean_creative_flow_index": 0.008252919294809164,
+      "mean_astral_band_index": 0.005281868348677867,
+      "mode_transition": false,
+      "frequency_dispersion": 0.45,
+      "time_series": null
+    },
+    "mwi_bifurcation": {
+      "scenario": "mwi_bifurcation",
+      "mean_order_parameter": 0.6844634322931188,
+      "final_order_parameter": 0.6974297976094008,
+      "mean_phi": 0.12284451269915529,
+      "mean_creative_flow_index": 0.16653076601319988,
+      "mean_astral_band_index": 0.07764083395582301,
+      "mode_transition": false,
+      "frequency_dispersion": 0.13025615788386616,
+      "time_series": null
+    },
+    "imaginal_coupling": {
+      "scenario": "imaginal_coupling",
+      "mean_order_parameter": 0.49157550236210396,
+      "final_order_parameter": 0.5033056611360278,
+      "mean_phi": 0.1582923607891962,
+      "mean_creative_flow_index": 0.0,
+      "mean_astral_band_index": 0.0,
+      "mode_transition": false,
+      "frequency_dispersion": 0.12,
+      "time_series": {
+        "r_t": [
+          0.4672,
+          0.4794,
+          0.4835,
+          0.483,
+          0.5037,
+          0.5071,
+          0.4999,
+          0.4941,
+          0.4874,
+          0.4926
+        ],
+        "phi_t": [
+          0.1566,
+          0.1574,
+          0.1577,
+          0.1577,
+          0.1591,
+          0.1594,
+          0.1589,
+          0.1585,
+          0.158,
+          0.1584
+        ],
+        "astral_band_index_t": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    }
+  },
+  "interpretation": {
+    "thesis": "Kuramoto coupled oscillators as FEO Phase B",
+    "finding": "improv r=0.9867 cfi=0.0528; filter_failure dispersion=0.4500",
+    "p12_analog": true,
+    "p10_analog": false,
+    "p14_analog": false,
+    "modes_discriminable": true,
+    "caveat": "Computational metaphor; not neural Kuramoto proof"
+  }
+}

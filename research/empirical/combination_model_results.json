@@ -1,0 +1,114 @@
+{
+  "experiment": "combination_model",
+  "n_components": 6,
+  "micro_units": [
+    {
+      "component_id": "comp_0",
+      "intensity": 0.2,
+      "valence": -0.19999999999999996,
+      "binding_affinity": {}
+    },
+    {
+      "component_id": "comp_1",
+      "intensity": 0.35,
+      "valence": 0.0,
+      "binding_affinity": {
+        "comp_0": 0.7
+      }
+    },
+    {
+      "component_id": "comp_2",
+      "intensity": 0.5,
+      "valence": 0.20000000000000018,
+      "binding_affinity": {
+        "comp_1": 0.7
+      }
+    },
+    {
+      "component_id": "comp_3",
+      "intensity": 0.6499999999999999,
+      "valence": 0.40000000000000013,
+      "binding_affinity": {
+        "comp_2": 0.7
+      }
+    },
+    {
+      "component_id": "comp_4",
+      "intensity": 0.8,
+      "valence": 0.6000000000000001,
+      "binding_affinity": {
+        "comp_3": 0.7
+      }
+    },
+    {
+      "component_id": "comp_5",
+      "intensity": 0.95,
+      "valence": 0.8,
+      "binding_affinity": {
+        "comp_4": 0.7
+      }
+    }
+  ],
+  "macro_by_mode": {
+    "summing": {
+      "mode": "summing",
+      "unified_intensity": 3.7780000000000005,
+      "unified_valence": 0.3000000000000001,
+      "phi_analog": 0.6296666666666667,
+      "n_micro_units": 6,
+      "is_unified": false,
+      "component_ids": [
+        "comp_0",
+        "comp_1",
+        "comp_2",
+        "comp_3",
+        "comp_4",
+        "comp_5"
+      ]
+    },
+    "fusion": {
+      "mode": "fusion",
+      "unified_intensity": 0.6511177399431629,
+      "unified_valence": 0.34374514490925107,
+      "phi_analog": 0.10699467446975988,
+      "n_micro_units": 6,
+      "is_unified": false,
+      "component_ids": [
+        "comp_0",
+        "comp_1",
+        "comp_2",
+        "comp_3",
+        "comp_4",
+        "comp_5"
+      ]
+    },
+    "integration": {
+      "mode": "integration",
+      "unified_intensity": 0.7521018518515117,
+      "unified_valence": 0.3000000000000001,
+      "phi_analog": 0.10548262108219286,
+      "n_micro_units": 6,
+      "is_unified": false,
+      "component_ids": [
+        "comp_0",
+        "comp_1",
+        "comp_2",
+        "comp_3",
+        "comp_4",
+        "comp_5"
+      ]
+    }
+  },
+  "interpretation": {
+    "axiom_a4": "Composition via integration/fusion, not emergence ex nihilo",
+    "finding": "Integration phi=0.1055, fusion phi=0.1070, summing phi=0.6297",
+    "unity_achieved": {
+      "summing": false,
+      "fusion": false,
+      "integration": false
+    },
+    "panpsychism_prediction": "Fusion and integration modes produce unified macro-experience; naive summing does not \u2014 supports combination problem solutions",
+    "caveat": "Computational model only; does not detect real phenomenal unity",
+    "combination_status": "mixed"
+  }
+}

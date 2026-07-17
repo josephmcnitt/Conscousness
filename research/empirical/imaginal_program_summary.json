@@ -1,0 +1,23 @@
+{
+  "program": "Imaginal Excitation Ontology Part IV",
+  "p10_triplet": {
+    "thesis": "Field Excitation Ontology (FEO)",
+    "finding": "creative_flow_index=0.7520 boredom=0.0000 overload=0.2025; duet cross_coupling=0.7826",
+    "p10_analog": true,
+    "p11_analog": false,
+    "p12_analog": true,
+    "modes_discriminable": true,
+    "caveat": "Computational metaphor only; not empirical proof of consciousness field"
+  },
+  "imaginal_interpretation": {
+    "thesis": "Imaginal Excitation Ontology (IEO)",
+    "finding": "hypnagogic astral_band_index=0.4822 imaginal_phi=0.0386; pathworking disorg=0.1000 chaotic_trance disorg=0.5200",
+    "p13_analog": true,
+    "p14_analog": true,
+    "p15_analog": true,
+    "modes_discriminable": true,
+    "caveat": "Computational metaphor only; not empirical proof of astral planes or imaginal entities"
+  },
+  "phase_b_ran": true,
+  "fep_track": "research/esoteric/ \u2014 constructed practice, not evidence"
+}

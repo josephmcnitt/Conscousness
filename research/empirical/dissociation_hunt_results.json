@@ -1,0 +1,141 @@
+{
+  "experiment": "dissociation_hunt",
+  "program": "Hard Problem Protocol Part VI",
+  "scenarios": [
+    {
+      "scenario_id": "P18_creative_flow",
+      "prediction": "P18",
+      "qualia_invariants": [
+        "Q4",
+        "Q3"
+      ],
+      "track_scores": {
+        "panpsychist_close": 0.0771,
+        "illusionist_dissolve": 1.0,
+        "structural_physicalism": 0.1179,
+        "residual_integration": 0.0,
+        "access_reconstruction_error": 1.0
+      },
+      "adversarial_value": 0.9229,
+      "p18_analog": false
+    },
+    {
+      "scenario_id": "P18_hypnagogic",
+      "prediction": "P18",
+      "qualia_invariants": [
+        "Q8",
+        "Q7"
+      ],
+      "track_scores": {
+        "panpsychist_close": 0.3222,
+        "illusionist_dissolve": 0.1881,
+        "structural_physicalism": 0.0507,
+        "residual_integration": 0.6252,
+        "access_reconstruction_error": 0.9158
+      },
+      "adversarial_value": 0.2715,
+      "p18_analog": true
+    },
+    {
+      "scenario_id": "P19_suffering_decoupled",
+      "prediction": "P19",
+      "qualia_invariants": [
+        "Q9",
+        "Q2"
+      ],
+      "track_scores": {
+        "panpsychist_close": 0.2675,
+        "illusionist_dissolve": 0.955,
+        "structural_physicalism": 0.378,
+        "residual_integration": 0.0,
+        "access_reconstruction_error": 1.0
+      },
+      "adversarial_value": 0.6875,
+      "p18_analog": false
+    },
+    {
+      "scenario_id": "P20_insight_pre_report",
+      "prediction": "P20",
+      "qualia_invariants": [
+        "Q5"
+      ],
+      "track_scores": {
+        "panpsychist_close": 0.5198,
+        "illusionist_dissolve": 0.3028,
+        "structural_physicalism": 0.3765,
+        "residual_integration": 0.6612,
+        "access_reconstruction_error": 0.8615
+      },
+      "adversarial_value": 0.217,
+      "p18_analog": true
+    },
+    {
+      "scenario_id": "P21_spectrum_inversion_a",
+      "prediction": "P21",
+      "qualia_invariants": [
+        "Q1"
+      ],
+      "track_scores": {
+        "panpsychist_close": 0.4245,
+        "illusionist_dissolve": 0.94,
+        "structural_physicalism": 0.6212,
+        "residual_integration": 0.0,
+        "access_reconstruction_error": 0.1394
+      },
+      "adversarial_value": 0.5155,
+      "p18_analog": false
+    },
+    {
+      "scenario_id": "P21_spectrum_inversion_b",
+      "prediction": "P21",
+      "qualia_invariants": [
+        "Q1"
+      ],
+      "track_scores": {
+        "panpsychist_close": 0.4245,
+        "illusionist_dissolve": 0.94,
+        "structural_physicalism": 0.6212,
+        "residual_integration": 0.0,
+        "access_reconstruction_error": 0.1394
+      },
+      "adversarial_value": 0.5155,
+      "p18_analog": false
+    },
+    {
+      "scenario_id": "P18_boredom_baseline",
+      "prediction": "P18",
+      "qualia_invariants": [
+        "Q4"
+      ],
+      "track_scores": {
+        "panpsychist_close": 0.1324,
+        "illusionist_dissolve": 0.9505,
+        "structural_physicalism": 0.0727,
+        "residual_integration": 0.0,
+        "access_reconstruction_error": 1.0
+      },
+      "adversarial_value": 0.8778,
+      "p18_analog": false
+    }
+  ],
+  "ranked_by_adversarial_value": [
+    "P18_creative_flow",
+    "P18_boredom_baseline",
+    "P19_suffering_decoupled",
+    "P21_spectrum_inversion_a",
+    "P21_spectrum_inversion_b",
+    "P18_hypnagogic",
+    "P20_insight_pre_report"
+  ],
+  "interpretation": {
+    "highest_adversarial_value": "P18_creative_flow",
+    "p18_analog": true,
+    "panpsychist_leading_scenarios": [],
+    "illusionist_leading_scenarios": [
+      "P18_creative_flow",
+      "P21_spectrum_inversion_a",
+      "P21_spectrum_inversion_b"
+    ],
+    "caveat": "Simulation proxies only; adversarial_value ranks in-silico divergence"
+  }
+}

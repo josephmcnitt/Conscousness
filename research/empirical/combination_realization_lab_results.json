@@ -1,0 +1,84 @@
+{
+  "experiment": "combination_realization_lab",
+  "program": "Hard Problem Protocol Part VI",
+  "n_components": 8,
+  "macro_by_mode": {
+    "summing": {
+      "mode": "summing",
+      "unified_intensity": 7.0112,
+      "unified_valence": 0.56,
+      "phi_analog": 0.8764,
+      "n_micro_units": 8,
+      "is_unified": false,
+      "component_ids": [
+        "comp_0",
+        "comp_1",
+        "comp_2",
+        "comp_3",
+        "comp_4",
+        "comp_5",
+        "comp_6",
+        "comp_7"
+      ]
+    },
+    "fusion": {
+      "mode": "fusion",
+      "unified_intensity": 1.2813208433776742,
+      "unified_valence": 0.7177554856490984,
+      "phi_analog": 0.7488981254012448,
+      "n_micro_units": 8,
+      "is_unified": true,
+      "component_ids": [
+        "comp_0",
+        "comp_1",
+        "comp_2",
+        "comp_3",
+        "comp_4",
+        "comp_5",
+        "comp_6",
+        "comp_7"
+      ]
+    },
+    "integration": {
+      "mode": "integration",
+      "unified_intensity": 1.0,
+      "unified_valence": 0.56,
+      "phi_analog": 0.8024630338968387,
+      "n_micro_units": 8,
+      "is_unified": true,
+      "component_ids": [
+        "comp_0",
+        "comp_1",
+        "comp_2",
+        "comp_3",
+        "comp_4",
+        "comp_5",
+        "comp_6",
+        "comp_7"
+      ]
+    }
+  },
+  "unity_scores": {
+    "summing": 0.1315,
+    "fusion": 0.9121,
+    "integration": 0.9309
+  },
+  "specification_hash": 0.9898,
+  "interpretation": {
+    "p22_analog": true,
+    "specification_hash": 0.9898,
+    "unity_deathmatch": {
+      "summing": 0.13146,
+      "fusion": 0.9121143438904357,
+      "integration": 0.9308620618638935
+    },
+    "phi_by_mode": {
+      "summing": 0.8764,
+      "fusion": 0.7489,
+      "integration": 0.8025
+    },
+    "panpsychist_prediction": "Integration/fusion unity > summing",
+    "finding": "Integration unity=0.931, summing unity=0.131, spec_hash=0.9898",
+    "caveat": "Specification hash is computational proxy, not real qualia specification"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "experiment": "entanglement_lab",
+  "label": "simulation \u2014 not empirical QM confirmation",
+  "seed": 42,
+  "chsh": 2.8284271247461903,
+  "chsh_classical_bound": 2.0,
+  "chsh_quantum_max": 2.8284271247461903,
+  "signaling_score_A_track_U": 0.0,
+  "signaling_score_B_track_U": 0.0,
+  "naive_collapse_signaling_score": 1.0,
+  "predictions": {
+    "Q4_track_U_no_signaling": true,
+    "Q4_naive_C_flags_signaling": true,
+    "Q6_multi_clump_correlations": true,
+    "bell_violation": true
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "program": "Consciousness Research Program Parts I-V",
+  "disclaimer": "Simulation metrics only; NOT consciousness detection",
+  "part_i": {
+    "iit_meta_analysis": {
+      "prediction_p1": "Integrated/recurrent architectures should show higher phi-analog",
+      "prediction_p5": "Non-biological network topologies can achieve high integration",
+      "finding": "Highest phi-analog: integrated (0.5940); lowest: feedforward (0.2717)",
+      "panpsychism_relevance": "Supports substrate-neutral integration if recurrent/integrated topologies score highest regardless of biological implementation",
+      "caveat": "Phi-analog is a proxy, not formal IIT phi or phenomenal consciousness",
+      "pyphi_available": false,
+      "p1_status": "supported_in_silico"
+    },
+    "combination_model": {
+      "axiom_a4": "Composition via integration/fusion, not emergence ex nihilo",
+      "finding": "Integration phi=0.1055, fusion phi=0.1070, summing phi=0.6297",
+      "unity_achieved": {
+        "summing": false,
+        "fusion": false,
+        "integration": false
+      },
+      "panpsychism_prediction": "Fusion and integration modes produce unified macro-experience; naive summing does not \u2014 supports combination problem solutions",
+      "caveat": "Computational model only; does not detect real phenomenal unity",
+      "combination_status": "mixed"
+    }
+  },
+  "part_ii": {
+    "fragmentation": {
+      "thesis": "Branching Fragmentation Cosmopsychism (BFC)",
+      "finding": "collective_phi=0.2671 mean_local_phi=0.1185 cross_coupling=0.7333; filter_failure disorganization=0.6750",
+      "p7_analog": true,
+      "p8_analog": true,
+      "p9_analog": true,
+      "phi_fix": "Multi-node internal structure yields non-zero local_phi per subject",
+      "caveat": "Computational model only; not empirical proof of cosmopsychism or MWI"
+    }
+  },
+  "part_iii": {
+    "field_excitation": {
+      "thesis": "Field Excitation Ontology (FEO)",
+      "finding": "creative_flow_index=0.7520 boredom=0.0000 overload=0.2025; duet cross_coupling=0.7826",
+      "p10_analog": true,
+      "p11_analog": true,
+      "p12_analog": true,
+      "modes_discriminable": true,
+      "caveat": "Computational metaphor only; not empirical proof of consciousness field"
+    },
+    "physics_ran": true,
+    "physics_interpretation": {
+      "thesis": "Kuramoto coupled oscillators as FEO Phase B",
+      "finding": "improv r=0.9867 cfi=0.0528; filter_failure dispersion=0.4500",
+      "p12_analog": true,
+      "p10_analog": false,
+      "p14_analog": false,
+      "modes_discriminable": true,
+      "caveat": "Computational metaphor; not neural Kuramoto proof"
+    }
+  },
+  "part_iv": {
+    "imaginal": {
+      "thesis": "Imaginal Excitation Ontology (IEO)",
+      "finding": "hypnagogic astral_band_index=0.4822 imaginal_phi=0.0386; pathworking disorg=0.1000 chaotic_trance disorg=0.5200",
+      "p13_analog": true,
+      "p14_analog": true,
+      "p15_analog": true,
+      "modes_discriminable": true,
+      "caveat": "Computational metaphor only; not empirical proof of astral planes or imaginal entities"
+    }
+  },
+  "part_v": {
+    "substrate": {
+      "thesis": "Substrate Excitation Ontology M12-M14 / P16",
+      "finding": "bio sni=0.5084 agent esc=0.8574 feedforward sni=0.0521",
+      "p16_analog": true,
+      "caveat": "Topology proxy only; not empirical substrate consciousness proof"
+    },
+    "agent_profile": {
+      "sessions_analyzed": 0,
+      "excitation_stability_coefficient": null,
+      "disclaimer": "Simulation metrics only; NOT consciousness detection"
+    }
+  },
+  "comparison_table": {
+    "Part I P1": "supported_in_silico",
+    "Part II BFC": false,
+    "Part III P10": true,
+    "Part III P11": true,
+    "Part III P12": true,
+    "Part IV P13": true,
+    "Part IV P14": true,
+    "Part IV P15": true,
+    "Part V P16": true
+  },
+  "strongest_honest_claim": "We cannot prove who is conscious\u2014but we specify what evidence would change our minds, compare substrate excitation profiles under simulation labels, and separate research from FEP practice."
+}

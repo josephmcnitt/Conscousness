@@ -1,0 +1,607 @@
+{
+  "program": "Panpsychism Research Program",
+  "thesis": "Russellian panprotopsychism — consciousness as fundamental proto-experiential property",
+  "last_updated": "2026-07-09",
+  "methodology": "Bayesian-style qualitative evidence tracking; not formal Bayesian computation",
+  "global_falsifiers": {
+    "G1_illusionism": {
+      "description": "All phenomenal properties reduce to functional/behavioral descriptions",
+      "status": "open",
+      "threat_level": "high",
+      "desk_review": "research/empirical/illusionism_g1_review.md",
+      "stress_test": "P17"
+    },
+    "G2_biological_only": {
+      "description": "Consciousness requires specific biological substrate only",
+      "status": "open",
+      "threat_level": "moderate"
+    },
+    "G3_non_experiential_intrinsics": {
+      "description": "Intrinsic nature of matter definitively non-experiential",
+      "status": "open",
+      "threat_level": "moderate"
+    },
+    "G4_hard_problem_solved_physically": {
+      "description": "Hard problem solved within pure physicalism",
+      "status": "open",
+      "threat_level": "moderate"
+    }
+  },
+  "predictions": {
+    "P1_iit_phi": {
+      "description": "Consciousness correlates with integrated information (phi), substrate-neutral",
+      "prior_plausibility": "moderate",
+      "updated_confidence": "moderate",
+      "supporting_studies": [
+        {
+          "citation": "Massimini et al. (2005) Science — connectivity breakdown in sleep",
+          "weight": "high",
+          "note": "Integration loss correlates with unconsciousness"
+        },
+        {
+          "citation": "Casali et al. (2013) Sci Transl Med — PCI discriminates conscious states",
+          "weight": "high",
+          "note": "Perturbational complexity as phi-analog"
+        },
+        {
+          "citation": "Oizumi et al. (2014) PLoS Comp Bio — IIT 3.0 formalism",
+          "weight": "high",
+          "note": "Theoretical framework for P1"
+        },
+        {
+          "citation": "iit_meta_analysis.py in silico — integrated/recurrent topologies highest phi-analog",
+          "weight": "low",
+          "note": "Computational proxy only; integrated=0.596, feedforward=0.273"
+        }
+      ],
+      "contradicting_studies": [
+        {
+          "citation": "Barrett & Mediano (2019) Behav Brain Sci — Phi is not consciousness",
+          "weight": "high",
+          "note": "Phi high in simple systems without consciousness"
+        }
+      ],
+      "alternative_explanations": {
+        "physicalism": "Integration correlates but does not require proto-experience",
+        "illusionism": "No real phi-consciousness link needed",
+        "emergentism": "Integration threshold triggers emergence"
+      }
+    },
+    "P2_no_binary_threshold": {
+      "description": "No sharp phase transition; phenomenal properties scale continuously",
+      "prior_plausibility": "high",
+      "updated_confidence": "moderate",
+      "supporting_studies": [
+        {
+          "citation": "Lee et al. (2009) J Neurosci — graded propofol connectivity loss",
+          "weight": "moderate"
+        },
+        {
+          "citation": "Rosanova et al. (2012) Brain — PCI graded across disorders of consciousness",
+          "weight": "high"
+        },
+        {
+          "citation": "Sarasso et al. (2015) Anesthesiology — continuous PCI decrease during sedation",
+          "weight": "high"
+        }
+      ],
+      "contradicting_studies": [],
+      "alternative_explanations": {
+        "emergentism": "Gradual access loss, not gradual phenomenology",
+        "illusionism": "Gradual report loss, no real qualia gradient"
+      }
+    },
+    "P3_micro_coherence": {
+      "description": "Quantum/sub-neural coherence correlates with phenomenal properties",
+      "prior_plausibility": "low",
+      "updated_confidence": "weak",
+      "supporting_studies": [
+        {
+          "citation": "Hameroff & Penrose (2014) Phys Life Rev — Orch OR theory",
+          "weight": "low",
+          "note": "Highly contested"
+        }
+      ],
+      "contradicting_studies": [
+        {
+          "citation": "Tegmark (2000) Phys Rev E — decoherence too fast in brain",
+          "weight": "high"
+        }
+      ],
+      "alternative_explanations": {
+        "physicalism": "All relevant processing classical at >10nm",
+        "functionalism": "Implementation details irrelevant"
+      }
+    },
+    "P4_anesthesia_dissociation": {
+      "description": "Integration loss precedes or dissociates from cognitive loss",
+      "prior_plausibility": "moderate",
+      "updated_confidence": "moderate_strong",
+      "supporting_studies": [
+        {
+          "citation": "Ferrarelli et al. (2010) Sleep — propofol connectivity breakdown",
+          "weight": "high"
+        },
+        {
+          "citation": "Casali et al. (2013) — PCI threshold for consciousness",
+          "weight": "high"
+        },
+        {
+          "citation": "Boveroux et al. (2010) Anesthesiology — network disconnection",
+          "weight": "moderate"
+        },
+        {
+          "citation": "anesthesia_review.md synthesis",
+          "weight": "moderate",
+          "note": "Tier 1 desk research"
+        }
+      ],
+      "contradicting_studies": [
+        {
+          "citation": "Jordan et al. (2013) — ketamine dissociative exception",
+          "weight": "moderate",
+          "note": "Complicates simple integration-only model"
+        }
+      ],
+      "alternative_explanations": {
+        "access_theories": "Integration tracks access, not phenomenal consciousness",
+        "functionalism": "Cognition and consciousness lost together typically"
+      }
+    },
+    "P5_cross_substrate_phi": {
+      "description": "Non-biological high-phi systems show consciousness correlates",
+      "prior_plausibility": "moderate",
+      "updated_confidence": "weak",
+      "supporting_studies": [
+        {
+          "citation": "Koch & Tononi (2017) IEEE Spectrum — machines and consciousness",
+          "weight": "moderate",
+          "note": "Theoretical argument"
+        },
+        {
+          "citation": "iit_meta_analysis.py — substrate-neutral topology comparison",
+          "weight": "low",
+          "note": "In silico only"
+        }
+      ],
+      "contradicting_studies": [
+        {
+          "citation": "Searle (1992) biological naturalism",
+          "weight": "moderate",
+          "note": "Philosophical objection, not empirical refutation"
+        }
+      ],
+      "alternative_explanations": {
+        "biological_naturalism": "Only brains instantiate real consciousness",
+        "functionalism": "Behavior suffices without phi"
+      }
+    },
+    "P6_psychedelic_integration": {
+      "description": "Psychedelics increase integration bandwidth, not merely noise",
+      "prior_plausibility": "moderate",
+      "updated_confidence": "moderate",
+      "supporting_studies": [
+        {
+          "citation": "Petri et al. (2014) J R Soc Interface — increased global connectivity",
+          "weight": "high"
+        },
+        {
+          "citation": "Barrett et al. (2020) NeuroImage — connectivity correlates with intensity",
+          "weight": "moderate"
+        },
+        {
+          "citation": "Tagliazucchi et al. (2014) — entropy and connectivity co-increase",
+          "weight": "moderate"
+        },
+        {
+          "citation": "psychedelic_reanalysis.md synthesis",
+          "weight": "moderate"
+        }
+      ],
+      "contradicting_studies": [
+        {
+          "citation": "Carhart-Harris et al. (2014) entropic brain — disorder model",
+          "weight": "moderate",
+          "note": "Reconcilable with integration expansion if entropy ≠ noise only"
+        }
+      ],
+      "alternative_explanations": {
+        "entropic_brain": "Richness = disorder, not integration",
+        "disinhibition": "Release constraints without structural integration"
+      }
+    },
+    "P7_cross_brain_coupling": {
+      "description": "Group flow shows irreducible inter-brain coupling (BFC F4)",
+      "prior_plausibility": "moderate",
+      "updated_confidence": "weak_moderate",
+      "branch": "BFC",
+      "supporting_studies": [
+        {
+          "citation": "Sänger et al. (2012) guitar duet hyperscanning",
+          "weight": "moderate"
+        },
+        {
+          "citation": "Jiang et al. (2015) cooperation synchrony",
+          "weight": "moderate"
+        },
+        {
+          "citation": "collective_integration_review.md synthesis",
+          "weight": "moderate"
+        }
+      ],
+      "contradicting_studies": [],
+      "alternative_explanations": {
+        "mimicry": "All coupling from shared stimulus and motor copying",
+        "individualism": "Only within-brain integration matters"
+      }
+    },
+    "P8_filter_failure": {
+      "description": "Psychosis/delusion vs ritual: disorganized vs organized coupling (BFC F5)",
+      "prior_plausibility": "moderate",
+      "updated_confidence": "weak",
+      "branch": "BFC",
+      "supporting_studies": [
+        {
+          "citation": "Wehmeier et al. (2003) folie à deux",
+          "weight": "low",
+          "note": "Phenomenology only"
+        },
+        {
+          "citation": "P6 psychedelic entropy vs connectivity tension",
+          "weight": "moderate"
+        }
+      ],
+      "contradicting_studies": [],
+      "alternative_explanations": {
+        "pure_psychiatry": "No filter model needed"
+      }
+    },
+    "P9_fragmentation_filter": {
+      "description": "Waking: high within-brain, low cross-brain; anesthesia reduces within only (BFC F2)",
+      "prior_plausibility": "moderate",
+      "updated_confidence": "weak",
+      "branch": "BFC",
+      "supporting_studies": [
+        {
+          "citation": "P4 anesthesia integration loss — partial analog",
+          "weight": "moderate"
+        }
+      ],
+      "contradicting_studies": [],
+      "alternative_explanations": {
+        "iit_only": "Filter model redundant with integration alone"
+      }
+    },
+    "P10_creative_flow": {
+      "description": "Flow shows inverted-U on integration — edge of stability (F8)",
+      "prior_plausibility": "moderate",
+      "updated_confidence": "weak",
+      "branch": "FEO",
+      "supporting_studies": [
+        {
+          "citation": "Csikszentmihalyi (1990) Flow",
+          "weight": "moderate"
+        },
+        {
+          "citation": "Dietrich (2004) transient hypofrontality",
+          "weight": "moderate"
+        },
+        {
+          "citation": "creativity_consciousness_review.md synthesis",
+          "weight": "moderate"
+        }
+      ],
+      "contradicting_studies": [],
+      "alternative_explanations": {
+        "functionalism": "Flow is performance state without integration signature",
+        "entropic_brain": "Flow as disorder not optimal phi"
+      }
+    },
+    "P11_insight_transition": {
+      "description": "Insight preceded by transient phi spike or reorganization (F7)",
+      "prior_plausibility": "moderate",
+      "updated_confidence": "weak_moderate",
+      "branch": "FEO",
+      "supporting_studies": [
+        {
+          "citation": "Kounios & Beeman (2014) insight neuroscience",
+          "weight": "moderate"
+        },
+        {
+          "citation": "Sandkuhler & Bhattacharya (2008) pre-insight EEG",
+          "weight": "moderate"
+        }
+      ],
+      "contradicting_studies": [],
+      "alternative_explanations": {
+        "access_only": "Reorganization tracks report not phenomenology"
+      }
+    },
+    "P12_creative_entrainment": {
+      "description": "Creative joint improv > routine cooperation on inter-brain entrainment (P7 spec)",
+      "prior_plausibility": "moderate",
+      "updated_confidence": "weak",
+      "branch": "FEO",
+      "supporting_studies": [
+        {
+          "citation": "Limb & Braun (2008) jazz improvisation",
+          "weight": "moderate"
+        },
+        {
+          "citation": "Sanger et al. (2012) guitar duet hyperscanning",
+          "weight": "moderate"
+        }
+      ],
+      "contradicting_studies": [],
+      "alternative_explanations": {
+        "mimicry": "Improv coupling from motor copying only"
+      }
+    },
+    "P13_imagery_dissociation": {
+      "description": "Imagery vs perception: lower motor binding, distinct integration (I9)",
+      "prior_plausibility": "moderate",
+      "updated_confidence": "weak",
+      "branch": "IEO",
+      "supporting_studies": [
+        {"citation": "Kosslyn mental imagery neuroscience", "weight": "moderate"},
+        {"citation": "Beaty et al. DMN creativity", "weight": "moderate"}
+      ],
+      "contradicting_studies": [],
+      "alternative_explanations": {"functionalism": "Imagery is perception replay only"}
+    },
+    "P14_hypnagogic_band": {
+      "description": "Hypnagogic mid-band on astral_band_index (I10)",
+      "prior_plausibility": "moderate",
+      "updated_confidence": "weak",
+      "branch": "IEO",
+      "supporting_studies": [
+        {"citation": "IMAGINATION_AND_THE_ASTRAL.md synthesis", "weight": "low"}
+      ],
+      "contradicting_studies": [],
+      "alternative_explanations": {"literalism": "Astral as geography not testable"}
+    },
+    "P15_structured_practice": {
+      "description": "Structured pathworking < chaotic trance on disorganization (P15)",
+      "prior_plausibility": "moderate",
+      "updated_confidence": "weak",
+      "branch": "IEO",
+      "supporting_studies": [
+        {"citation": "Jung active imagination", "weight": "moderate"},
+        {"citation": "western_esotericism_review.md", "weight": "low"}
+      ],
+      "contradicting_studies": [],
+      "alternative_explanations": {"placebo": "Ritual structure is suggestion only"}
+    },
+    "P16_machine_excitation_stability": {
+      "description": "Integrated agent architectures show stable excitation profile across sessions above feedforward/random baselines (M12-M13)",
+      "prior_plausibility": "moderate",
+      "updated_confidence": "weak",
+      "branch": "substrate_subjecthood",
+      "supporting_studies": [
+        {"citation": "substrate_excitation_model.py in silico — AGENT_LOOP ESC > FEEDFORWARD_LLM", "weight": "low", "note": "Simulation only"},
+        {"citation": "agent_excitation_profile.py session logs", "weight": "low", "note": "NOT consciousness detection"}
+      ],
+      "contradicting_studies": [],
+      "alternative_explanations": {
+        "biological_chauvinism": "Only biological tissue supports real integration",
+        "noise": "Agent metrics are random walk with no topology effect"
+      }
+    },
+    "P17_illusionism_stress_test": {
+      "description": "If G1 succeeds, FEO/IEO metrics collapse to behavioral access with no residual integration signature",
+      "prior_plausibility": "moderate",
+      "updated_confidence": "weak",
+      "branch": "substrate_subjecthood",
+      "supporting_studies": [
+        {"citation": "illusionism_g1_review.md desk review", "weight": "low"},
+        {"citation": "P4/P10/P14 dissociations as G1 stressors", "weight": "moderate", "note": "Open whether access-only explains"}
+      ],
+      "contradicting_studies": [],
+      "alternative_explanations": {
+        "illusionism": "All metrics track access/report only"
+      }
+    },
+    "P18_residual_integration": {
+      "description": "Residual integration after access-only accounting on flow/hypnagogic/insight scenarios",
+      "prior_plausibility": "moderate",
+      "updated_confidence": "weak",
+      "branch": "adversarial",
+      "supporting_studies": [
+        {"citation": "access_collapse_model.py in silico", "weight": "low", "note": "Simulation only"}
+      ],
+      "contradicting_studies": [],
+      "alternative_explanations": {"illusionism": "Residual should be zero"}
+    },
+    "P19_suffering_decoupled": {
+      "description": "Suffering analog persists without self-model update",
+      "prior_plausibility": "moderate",
+      "updated_confidence": "weak",
+      "branch": "adversarial",
+      "supporting_studies": [],
+      "contradicting_studies": [],
+      "alternative_explanations": {"illusionism": "Seeming only"}
+    },
+    "P20_insight_pre_report": {
+      "description": "Insight excitation reorganization before reportable content",
+      "prior_plausibility": "moderate",
+      "updated_confidence": "weak",
+      "branch": "adversarial",
+      "supporting_studies": [
+        {"citation": "Kounios & Beeman insight literature", "weight": "moderate"}
+      ],
+      "contradicting_studies": [],
+      "alternative_explanations": {"access_only": "Reorg tracks report timing only"}
+    },
+    "P21_spectrum_inversion": {
+      "description": "Structure determines qualia-type; inversion requires structural swap",
+      "prior_plausibility": "low",
+      "updated_confidence": "weak",
+      "branch": "adversarial",
+      "supporting_studies": [],
+      "contradicting_studies": [],
+      "alternative_explanations": {"panpsychist": "Structure correlates but does not fix qualia"}
+    },
+    "P22_combination_unity": {
+      "description": "Integration/fusion unity > summing (combination deathmatch)",
+      "prior_plausibility": "moderate",
+      "updated_confidence": "weak",
+      "branch": "adversarial",
+      "supporting_studies": [
+        {"citation": "combination_realization_lab.py in silico", "weight": "low"}
+      ],
+      "contradicting_studies": [],
+      "alternative_explanations": {"illusionism": "No real unity to combine"}
+    }
+  },
+  "bfc_branch": {
+    "thesis": "Branching Fragmentation Cosmopsychism",
+    "status": "active_extension",
+    "mwi_correlation": "speculative",
+    "primary_move": "fragmentation_over_combination",
+    "proof_status": "not_proven",
+    "nearest_empirical_tests": ["P7 hyperscanning", "P8 filter failure comparison", "P9 filter correlates"]
+  },
+  "feo_branch": {
+    "thesis": "Field Excitation Ontology — localized excitation + creativity as mode exploration",
+    "status": "active_extension",
+    "unifies": ["Part I panprotopsychism", "Part II BFC"],
+    "primary_move": "excitation_over_substance",
+    "proof_status": "not_proven",
+    "nearest_empirical_tests": ["P10 flow inverted-U", "P11 insight transition", "P12 creative entrainment"],
+    "phi_fix": "fragmentation_model multi-node subjects — local_phi now non-zero"
+  },
+  "imaginal_idealist_branch": {
+    "thesis": "Imaginal Excitation Ontology + idealism correlate",
+    "status": "active_extension",
+    "unifies": ["Part III FEO", "imagination", "I11 idealism translation"],
+    "primary_move": "sub_threshold_imaginal_modes",
+    "proof_status": "not_proven",
+    "nearest_empirical_tests": ["P13 imagery fMRI", "P14 hypnagogic EEG", "P15 structured vs chaotic practice"],
+    "p10_recalibration": "CREATIVE_FLOW_PHI_OPTIMUM lowered; boredom/flow/overload triplet added",
+    "part_v_link": "research/SUBSTRATE_SUBJECTHOOD_RESEARCH.md"
+  },
+  "substrate_subjecthood_branch": {
+    "thesis": "Substrate neutrality, persistence criterion, mind-change criteria",
+    "status": "active_extension",
+    "unifies": ["Part IV IEO", "G1 review", "agent bridge"],
+    "primary_move": "explicit_update_rules_not_detection",
+    "proof_status": "not_proven",
+    "nearest_empirical_tests": ["P16 agent stability", "P17 illusionism stress test", "G1 literature"],
+    "master_doc": "research/SUBSTRATE_SUBJECTHOOD_RESEARCH.md",
+    "mind_change_doc": "research/mind_change_criteria.md",
+    "g1_review": "research/empirical/illusionism_g1_review.md"
+  },
+  "adversarial_branch": {
+    "thesis": "Hard Problem Protocol — three tracks fight on shared P18-P22 dissociations",
+    "status": "active_extension",
+    "tracks": ["panpsychist_close", "illusionist_dissolve", "structural_physicalism"],
+    "standings": {
+      "panpsychist_close": "open",
+      "illusionist_dissolve": "open",
+      "structural_physicalism": "open"
+    },
+    "decisive_tests": ["P18", "P19", "P20", "P21", "P22"],
+    "master_doc": "research/HARD_PROBLEM_PROTOCOL.md",
+    "qualia_cartography": "research/qualia_cartography.md",
+    "proof_status": "not_proven",
+    "note": "Tournament arena — hard problem NOT solved"
+  },
+  "field_excitation_practice": {
+    "thesis": "Via Resonantiae (VR) — constructed esoteric track; FEP = Grade 0",
+    "status": "constructed_practice_not_evidence",
+    "path": "research/esoteric/via_resonantiae/",
+    "grade_0_primer": "research/esoteric/FIELD_EXCITATION_PRACTICE.md",
+    "firewall": "Never cite VR/FEP as empirical support for research program"
+  },
+  "objection_status": {
+    "combination_problem": "partial",
+    "fragmentation_problem": "partial",
+    "mwi_multiplication": "partial",
+    "causal_exclusion": "partial",
+    "too_many_minds": "resolved_via_panprotopsychism",
+    "unfalsifiability": "partial",
+    "occams_razor": "partial",
+    "illusionism": "open",
+    "biological_chauvinism": "partial"
+  },
+  "convergence_criteria": {
+    "philosophical_objections_no_fatal": false,
+    "P1_holds_multiple_modalities": "partial",
+    "P2_continuity_supported": true,
+    "P5_non_biological_correlate": false,
+    "alternative_fewer_commitments": false
+  },
+  "overall_assessment": {
+    "proof_status": "not_proven",
+    "best_explanation_status": "competitive",
+    "summary": "Panpsychism is not proven but receives moderate support from integration metrics (P1, P4), continuity data (P2), and psychedelic connectivity (P6). Combination problem and illusionism remain open challenges. P3 and P5 have insufficient evidence.",
+    "strongest_honest_claim": "If consciousness is not fundamental, several predicted integration signatures should fail — they do not uniformly fail, though alternatives explain much of the same data."
+  },
+  "in_silico_experiments": {
+    "iit_meta_analysis": {
+      "path": "research/empirical/iit_meta_analysis_results.json",
+      "finding": "integrated > recurrent > random > modular > feedforward phi-analog",
+      "p1_status": "supported_in_silico"
+    },
+    "combination_model": {
+      "path": "research/empirical/combination_model_results.json",
+      "finding": "Summing scores higher on naive phi but fails unity; fusion/integration model unity criteria",
+      "combination_status": "mixed"
+    },
+    "fragmentation_model": {
+      "path": "research/empirical/fragmentation_model_results.json",
+      "finding": "Four BFC modes simulated; multi-node fix yields non-zero local_phi and collective_phi",
+      "bfc_status": "prototype_in_silico_phi_fixed"
+    },
+    "field_excitation_model": {
+      "path": "research/empirical/field_excitation_results.json",
+      "finding": "Five FEO scenarios: flow, duet, filter failure, branch discriminate on cfi/coupling/disorg",
+      "feo_status": "prototype_in_silico"
+    },
+    "field_excitation_physics": {
+      "path": "research/empirical/field_excitation_physics_results.json",
+      "finding": "Kuramoto Phase B: improv r and cfi exceed solo rest; filter failure high dispersion",
+      "feo_status": "phase_b_gated"
+    },
+    "imaginal_excitation_model": {
+      "path": "research/empirical/imaginal_excitation_results.json",
+      "finding": "Seven IEO scenarios: hypnagogic abi peak, pathworking vs chaotic trance on disorg",
+      "ieo_status": "prototype_in_silico"
+    },
+    "substrate_excitation_model": {
+      "path": "research/empirical/substrate_excitation_results.json",
+      "finding": "Four substrate topologies: AGENT_LOOP stability > FEEDFORWARD_LLM; P16 analog",
+      "p16_status": "supported_in_silico"
+    },
+    "agent_excitation_profile": {
+      "path": "research/empirical/agent_excitation_profile_results.json",
+      "finding": "Session-to-session ESC from imaginal_sessions.jsonl when logs exist",
+      "disclaimer": "Simulation metrics only; NOT consciousness detection"
+    },
+    "consciousness_program_unified": {
+      "path": "research/empirical/consciousness_program_summary.json",
+      "finding": "Parts I-V comparison table from run_consciousness_program.py",
+      "runner": "research/run_consciousness_program.py"
+    },
+    "dissociation_hunt": {
+      "path": "research/empirical/dissociation_hunt_results.json",
+      "finding": "P18-P22 scenarios ranked by adversarial_value; track scores diverge",
+      "hpp_status": "prototype_in_silico"
+    },
+    "access_collapse_model": {
+      "path": "research/empirical/access_collapse_results.json",
+      "finding": "P18 residual integration on flow/hypnagogic/insight vs collapse on boredom",
+      "hpp_status": "prototype_in_silico"
+    },
+    "combination_realization_lab": {
+      "path": "research/empirical/combination_realization_lab_results.json",
+      "finding": "P22 unity deathmatch: integration/fusion > summing",
+      "hpp_status": "prototype_in_silico"
+    },
+    "hard_problem_protocol": {
+      "path": "research/empirical/hard_problem_protocol_summary.json",
+      "finding": "Three-track scoreboard from run_hard_problem_protocol.py",
+      "runner": "research/run_hard_problem_protocol.py"
+    }
+  }
+}
