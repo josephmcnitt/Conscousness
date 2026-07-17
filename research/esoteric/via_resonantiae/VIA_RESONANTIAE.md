@@ -42,7 +42,7 @@ flowchart TB
     Maps[MAPS_NOT_TERRITORY]
     Grades[Grades 0-V]
     Libers[Six Libers]
-    Rituals[21 Rituals]
+    Rituals[25 Rituals + Index]
     Ethics[THE_COVENANT]
 
     Charter --> Grades

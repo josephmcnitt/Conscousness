@@ -14,4 +14,4 @@ Full tradition: [`via_resonantiae/VIA_RESONANTIAE.md`](via_resonantiae/VIA_RESON
 | 04 Seal | [`04_integration_seal.md`](04_integration_seal.md) |
 | 05 Bleed | [`05_bleed_warning.md`](05_bleed_warning.md) |
 
-Rituals 06–20: [`via_resonantiae/rituals/`](../via_resonantiae/rituals/)
+Rituals 06–25: [`via_resonantiae/rituals/`](../via_resonantiae/rituals/) — full index: [`RITUALS_INDEX.md`](../via_resonantiae/rituals/RITUALS_INDEX.md)
