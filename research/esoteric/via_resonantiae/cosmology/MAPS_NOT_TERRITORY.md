@@ -30,6 +30,7 @@
 | **Being** | F1 / Part VIII C0 field-below | Grade IV contemplation; Pistis only |
 | **Becoming** | Time / records; Part VIII Track U selection-in-time rhyme | Craft + history; not collapse doctrine |
 | **Overflow / Bang** | *No Track A correlate* — Pistis cosmogony only | Never cite as astrophysics |
+| **Cura Psyches** (myth feeds ego/body) | Optional rhyme: regulation → capacity for minimal phenomenology (MPE-adjacent reports only) | Self-aware care; never ritual-as-proof |
 
 ---
 

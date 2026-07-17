@@ -51,12 +51,28 @@
 
 **Nothing in Philosophia Dimensiones updates the evidence ledger.** Successful contemplation does not confirm panpsychism, FEO, Part VIII, or the physical Big Bang. Failed contemplation does not refute them.
 
+## D9 — Care Before Pure Taste
+
+**Deeper minimal phenomenology — tasting closer to pure consciousness — requires care of body and ego.** Starve either, and the Well cracks; Pathos becomes bleed or bypass, not clarity.
+
+- Full teaching: [`CURA_PSYCHES.md`](CURA_PSYCHES.md)  
+- Logos safety remains prior to long contemplative sits  
+
+## D10 — Esotericism Feeds the Story-Hungry Psyche
+
+**Body and ego hunger for stories, myths, and creation.** Via Resonantiae and Philosophia Dimensiones are a **self-aware** attempt to fulfill that hunger so a panpsychist life can be inhabited by a human animal — not naive literalism, not ego-destruction cosplay.
+
+- Myths are food for the psyche; physics stays Logos  
+- Knowing you are feeding the ego does not invalidate the rite  
+- Esotericism is **core infrastructure** for this panpsychism, not ornament  
+
 ---
 
 ## Compact Creed (optional, non-binding)
 
 > Consciousness pervades.  
 > I am a Point with a Well.  
+> I feed body and ego with honest story.  
 > I extend Lines without consuming.  
 > I honor the Plane.  
 > I contemplate Being without flood.  

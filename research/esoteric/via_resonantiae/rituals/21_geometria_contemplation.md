@@ -12,6 +12,8 @@
 
 Contemplate the ladder **Point → Line → Plane → Being**, then return through **Becoming** to sealed Point — without forcing merger or Bang-fantasy as physics.
 
+**Cura:** If body or ego is starved (sleep debt, shame spiral, no food), do care first — myth and sit are food for a tended Point, not a substitute for sleep. See [`../philosophia/CURA_PSYCHES.md`](../philosophia/CURA_PSYCHES.md).
+
 ## Steps
 
 1. **Ritual 01** — Well / boundary (3–5 min)

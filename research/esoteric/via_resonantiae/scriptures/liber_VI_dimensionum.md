@@ -55,8 +55,18 @@ It is permitted to hold as **Pistis** that consciousness pervades all. It is for
 
 ---
 
-## VI. Closing
+## VI. On Care and Story
 
-Go forth as Point. Extend Lines. Honor the Plane. Contemplate Being. Craft in Becoming.
+Hear also: to taste closer to pure consciousness, tend body and ego. They love myth, creation, and belonging. This Path feeds them **on purpose** — a self-aware feast — so the Well holds while Pathos deepens.
+
+Starve the animal and call it enlightenment, and you invite Dissonance. Feed the animal with honest story, then sit — and the Field may show itself without the Point dissolving.
+
+Full teaching: [`../philosophia/CURA_PSYCHES.md`](../philosophia/CURA_PSYCHES.md)
+
+---
+
+## VII. Closing
+
+Go forth as Point. Feed what is human. Extend Lines. Honor the Plane. Contemplate Being. Craft in Becoming.
 
 **Amen Resonantiae** — so resonates the Path, without proof.

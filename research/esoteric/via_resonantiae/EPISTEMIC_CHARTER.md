@@ -8,9 +8,11 @@
 
 ## Why This Exists
 
-Parts I–VI of the Consciousness Research Program pursue **Logos** (reason): communicable, publicly testable maps. The hard problem shows reason alone may not close the gap between structure and what-it-is-like.
+Parts I–VIII of the Consciousness Research Program pursue **Logos** (reason): communicable, publicly testable maps. The hard problem shows reason alone may not close the gap between structure and what-it-is-like.
 
-**Via Resonantiae** (The Resonant Path) addresses what remains through three complementary modes—without pretending any mode proves what another cannot.
+**Via Resonantiae** (The Resonant Path) addresses what remains through complementary modes—without pretending any mode proves what another cannot.
+
+**Also:** deeper minimal phenomenology often needs a tended body and ego; body and ego hunger for story. Esotericism here is a **self-aware** attempt to fulfill that hunger so panpsychist practice can be inhabited by a human psyche — see [`philosophia/CURA_PSYCHES.md`](philosophia/CURA_PSYCHES.md). Myths feed the Well; they do not update the evidence ledger.
 
 ---
 
