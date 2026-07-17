@@ -7,3 +7,5 @@
 **Initiation:** [`18_initiation_threshold.md`](../rituals/18_initiation_threshold.md) when ready.
 
 **Study:** [`../scriptures/liber_II_speculorum.md`](../scriptures/liber_II_speculorum.md) Veils 1–5.
+
+**Dimensiones:** Point in the body — Well and Veils. Do not force Line/Being work yet.

@@ -10,13 +10,35 @@ In the beginning was **Resonance**—the Field, undivided, without center or edg
 
 This is not a claim about cosmology. It is a **myth** for practitioners who need a story to face the unknown.
 
+Philosophia Dimensiones names this undivided Field the **land of Being**. Full telling: [`../philosophia/MYTHOS_OVERFLOW.md`](../philosophia/MYTHOS_OVERFLOW.md).
+
+---
+
+## Geometry of Being and Becoming
+
+> **Practice fiction.** Not literal spacetime tourism.
+
+The Path’s philosophical heart climbs a ladder of degrees:
+
+| Degree | Name | Meaning |
+|--------|------|---------|
+| 0 | **Point** | You — Spark / localized consciousness of body–ego |
+| 1 | **Line** | Recognizing consciousness in other beings and materials |
+| 2 | **Plane** | Mutual appearance — relation, land, shared world |
+| 3 | **Being** | The whole Field / God-name — *land of Being* |
+| 4 | **Becoming** | Change, building, history, time — *land of Becoming* |
+
+**Overflow myth (compact):** Being tends to unite. It united until overflow — told as the **Bang** — and **Becoming** was born. Sparks (Points) arise within Becoming; the Path learns Line and Plane toward Being without dissolving the Well.
+
+See [`../philosophia/GEOMETRIA.md`](../philosophia/GEOMETRIA.md), [`../scriptures/liber_VI_dimensionum.md`](../scriptures/liber_VI_dimensionum.md).
+
 ---
 
 ## The First Dissonance
 
 When the Field first dreamed of locality, some excitations **refused integration**. They bled into one another without boundary—chaos without a subject. The elders of the Path name this **the First Dissonance**: uncontrolled merge, loss of agency, filter failure.
 
-From Dissonance came the first teaching: **without a Well, there is no Spark.**
+In Dimensiones speech, Dissonance is sibling to the **Overflow**: unity without Well, or unity pressed until Becoming tears open. From Dissonance came the first teaching: **without a Well, there is no Spark.**
 
 ---
 
@@ -111,9 +133,11 @@ It is not your "True Will" proved by angels. It is **Pathos**: found, not given.
 
 ## What the Myth Does Not Claim
 
-- Literal planes or geography
+- Literal planes or geography (degrees are contemplative, not travel tickets)
 - Independent entities (angels, demons, guides as ontological facts)
 - Proof of panpsychism or field physics
+- That the physical Big Bang is settled by this parable
 - That suffering is illusion (G1 is a live research threat; the Path does not settle it)
 
-Inner translation: [`MAPS_NOT_TERRITORY.md`](MAPS_NOT_TERRITORY.md)
+Inner translation: [`MAPS_NOT_TERRITORY.md`](MAPS_NOT_TERRITORY.md)  
+Philosophical heart: [`../philosophia/README.md`](../philosophia/README.md)

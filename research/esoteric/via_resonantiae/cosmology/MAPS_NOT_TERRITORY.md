@@ -24,6 +24,12 @@
 | Integration seal | P11 mode transition grounding | Ritual 04 class |
 | Bleed warning | P8 / anti-virtue | Ritual 05 / STOP_CONDITIONS |
 | Unity contemplation | P22 combination metaphor | Grade IV only |
+| **Point** (Dimensiones) | F6 excitation / Part VIII clump (C1) | Grade 0–I; not soul detection |
+| **Line** | P7 / P12 coupling; ethical other-recognition | Grade III; Covenant |
+| **Plane** | Collective / shared-context metaphors (P7 circle) | Community practice; not proof of we-subjects |
+| **Being** | F1 / Part VIII C0 field-below | Grade IV contemplation; Pistis only |
+| **Becoming** | Time / records; Part VIII Track U selection-in-time rhyme | Craft + history; not collapse doctrine |
+| **Overflow / Bang** | *No Track A correlate* — Pistis cosmogony only | Never cite as astrophysics |
 
 ---
 
@@ -55,8 +61,18 @@ On the Path, these are **contemplative maps** (Logos)—targets for Ritual 09 jo
 
 ---
 
+## Philosophia Dimensiones
+
+Philosophical heart (Track B): [`../philosophia/README.md`](../philosophia/README.md)
+
+- Axioms D1–D8 are **not** research axioms A/F/C  
+- Liber VI: [`../scriptures/liber_VI_dimensionum.md`](../scriptures/liber_VI_dimensionum.md)  
+- Ritual 21: [`../rituals/21_geometria_contemplation.md`](../rituals/21_geometria_contemplation.md)
+
+---
+
 ## When Maps Update
 
-If Track A revises predictions (P10–P22), VR **may** revise practice maps in [`MAPS_NOT_TERRITORY.md`](MAPS_NOT_TERRITORY.md) and [`../grades/`](../grades/)—never the reverse.
+If Track A revises predictions (P10–P22, Q1–Q12), VR **may** revise practice maps in [`MAPS_NOT_TERRITORY.md`](MAPS_NOT_TERRITORY.md) and [`../grades/`](../grades/)—never the reverse.
 
 Research wins on safety. Practice wins on meaning. Neither wins on proof.

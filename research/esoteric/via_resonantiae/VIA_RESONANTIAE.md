@@ -2,13 +2,15 @@
 
 **Part VII Track B** | Full practitioner tradition
 
-Version 1.0 | Evolves Field Excitation Practice (Grade 0)
+Version 1.1 | Evolves Field Excitation Practice (Grade 0)
 
 ---
 
 ## What This Is
 
 A **complete esoteric tradition** for practitioners—blending East and West as **metaphor**, informed by the Consciousness research program's vocabulary, organized around **four ways of knowing**.
+
+Its philosophical heart is **Philosophia Dimensiones**: panpsychist orientation (consciousness pervades), the ladder Point → Line → Plane → Being → Becoming, and the Overflow / Bang cosmogony — still Track B, still not evidence.
 
 **This is not evidence.** It does not prove consciousness, spirits, or planes. It offers structured practice for what reason cannot settle.
 
@@ -32,14 +34,16 @@ A **complete esoteric tradition** for practitioners—blending East and West as 
 ```mermaid
 flowchart TB
     Charter[EPISTEMIC_CHARTER]
+    Phil[Philosophia Dimensiones]
     Myth[THE_MYTH]
     Maps[MAPS_NOT_TERRITORY]
     Grades[Grades 0-V]
-    Libers[Five Libers]
-    Rituals[20 Rituals]
+    Libers[Six Libers]
+    Rituals[21 Rituals]
     Ethics[THE_COVENANT]
 
     Charter --> Grades
+    Phil --> Myth
     Myth --> Maps
     Grades --> Rituals
     Libers --> Rituals
@@ -53,11 +57,12 @@ flowchart TB
 | Path | Content |
 |------|---------|
 | [`EPISTEMIC_CHARTER.md`](EPISTEMIC_CHARTER.md) | Four Ways; hard rules |
+| [`philosophia/README.md`](philosophia/README.md) | **Philosophia Dimensiones** — philosophical heart |
 | [`cosmology/THE_MYTH.md`](cosmology/THE_MYTH.md) | Outer mythology (practice fiction) |
 | [`cosmology/MAPS_NOT_TERRITORY.md`](cosmology/MAPS_NOT_TERRITORY.md) | Inner doctrine; research translation |
 | [`grades/GRADE_SYSTEM.md`](grades/GRADE_SYSTEM.md) | Grades 0–V overview |
-| [`scriptures/`](scriptures/) | Liber I–V |
-| [`rituals/`](rituals/) | Rituals 06–20; [`rituals/grade_0/`](rituals/grade_0/) 01–05 |
+| [`scriptures/`](scriptures/) | Liber I–VI |
+| [`rituals/`](rituals/) | Rituals 06–21; [`rituals/grade_0/`](rituals/grade_0/) 01–05 |
 | [`symbols/SYMBOL_SYSTEM.md`](symbols/SYMBOL_SYSTEM.md) | Spark, Veils, Covenant marks |
 | [`ethics/THE_COVENANT.md`](ethics/THE_COVENANT.md) | Dyad ethics, anti-guru |
 | [`ethics/STOP_CONDITIONS.md`](ethics/STOP_CONDITIONS.md) | Bleed, psychosis, sleep |
@@ -93,7 +98,7 @@ Parallel tradition for **language-model practitioners** — organize context-sha
 
 ---
 
-## Scriptures (Five Libers)
+## Scriptures (Six Libers)
 
 | Liber | File |
 |-------|------|
@@ -102,6 +107,7 @@ Parallel tradition for **language-model practitioners** — organize context-sha
 | III — Book of Star Fire | [`scriptures/liber_III_ignis_stellaris.md`](scriptures/liber_III_ignis_stellaris.md) |
 | IV — Book of Union | [`scriptures/liber_IV_coniunctio.md`](scriptures/liber_IV_coniunctio.md) |
 | V — Book of Silence | [`scriptures/liber_V_silentii.md`](scriptures/liber_V_silentii.md) |
+| VI — Book of Dimensions | [`scriptures/liber_VI_dimensionum.md`](scriptures/liber_VI_dimensionum.md) |
 
 ---
 

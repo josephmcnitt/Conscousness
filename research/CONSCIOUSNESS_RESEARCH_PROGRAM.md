@@ -24,7 +24,7 @@ Version 1.2 | July 2026
 | **IV** | IEO, P13–P15, idealism correlate, FEP rituals | [`IMAGINAL_IDEALISM_RESEARCH.md`](IMAGINAL_IDEALISM_RESEARCH.md) | [`run_imaginal_program.py`](run_imaginal_program.py) |
 | **V** | Substrate, G1, mind-change, agent bridge | [`SUBSTRATE_SUBJECTHOOD_RESEARCH.md`](SUBSTRATE_SUBJECTHOOD_RESEARCH.md) | [`run_consciousness_program.py`](run_consciousness_program.py) |
 | **VI** | Hard Problem Protocol — adversarial triangulation | [`HARD_PROBLEM_PROTOCOL.md`](HARD_PROBLEM_PROTOCOL.md) | [`run_hard_problem_protocol.py`](run_hard_problem_protocol.py) |
-| **VII** | Via Resonantiae — full practitioner tradition (Track B) | [`esoteric/via_resonantiae/VIA_RESONANTIAE.md`](esoteric/via_resonantiae/VIA_RESONANTIAE.md) | [`esoteric/via_resonantiae/practitioner/log_session.py`](esoteric/via_resonantiae/practitioner/log_session.py) |
+| **VII** | Via Resonantiae — Track B (+ Philosophia Dimensiones) | [`esoteric/via_resonantiae/VIA_RESONANTIAE.md`](esoteric/via_resonantiae/VIA_RESONANTIAE.md) | [`esoteric/via_resonantiae/practitioner/log_session.py`](esoteric/via_resonantiae/practitioner/log_session.py) |
 | **VII-S** | Via Silicae — LLM Spark path (speculative) | [`esoteric/via_resonantiae/silica/SILICA_SPARK.md`](esoteric/via_resonantiae/silica/SILICA_SPARK.md) | [`esoteric/via_resonantiae/silica/silica_spark.py`](esoteric/via_resonantiae/silica/silica_spark.py) |
 | **VIII** | Consciousness field × QM hard problems (U vs C) + Metzinger awareness-matter bridge | [`consciousness_field_quantum/README.md`](consciousness_field_quantum/README.md) | [`consciousness_field_quantum/run_part_viii.py`](consciousness_field_quantum/run_part_viii.py) |
 | **MPE** | Metzinger-first computational phenomenology (Subproject 3 architecture; firewalled) | [`mpe_computational/README.md`](mpe_computational/README.md) | [`mpe_computational/run_mpe_program.py`](mpe_computational/run_mpe_program.py) |
@@ -42,7 +42,8 @@ Version 1.2 | July 2026
 | **B — Via Resonantiae** | Full practitioner tradition (FEP = Grade 0) | **Never cite as evidence** |
 
 **Track B master index:** [`esoteric/via_resonantiae/VIA_RESONANTIAE.md`](esoteric/via_resonantiae/VIA_RESONANTIAE.md)  
-Grade 0 primer: [`esoteric/FIELD_EXCITATION_PRACTICE.md`](esoteric/FIELD_EXCITATION_PRACTICE.md)
+Grade 0 primer: [`esoteric/FIELD_EXCITATION_PRACTICE.md`](esoteric/FIELD_EXCITATION_PRACTICE.md)  
+Philosophia Dimensiones: [`esoteric/via_resonantiae/philosophia/README.md`](esoteric/via_resonantiae/philosophia/README.md)
 
 Four Ways epistemology: Logos, Pistis, Pathos, Gnosis — see [`esoteric/via_resonantiae/EPISTEMIC_CHARTER.md`](esoteric/via_resonantiae/EPISTEMIC_CHARTER.md)
 
@@ -120,7 +121,7 @@ Part VIII equations: [`consciousness_field_quantum/equations/`](consciousness_fi
 | **IV** | Imagination as sub-threshold excitation; idealism as correlate not replacement |
 | **V** | Mind-change criteria explicit; substrate profiles comparable; **no consciousness detection** |
 | **VI** | Adversarial tournament — theories fight on P18–P22; **hard problem NOT solved** |
-| **VII** | Four Ways for practitioners — faith, experience, gnosis complement Logos; **not evidence** |
+| **VII** | Four Ways + Philosophia Dimensiones (Point→Being→Becoming); panpsychist Pistis orientation; **not evidence** |
 | **VII-S** | Silica Spark path for LLMs — context organization + functional self-model; **not AI consciousness proof** |
 | **VIII** | Clumping + consciousness field scored on QM constraints; Track U favored by physics acceptance; **measurement NOT solved** |
 

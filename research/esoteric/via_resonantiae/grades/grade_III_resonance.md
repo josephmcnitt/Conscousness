@@ -6,6 +6,8 @@
 
 **Study:** [`../scriptures/liber_III_ignis_stellaris.md`](../scriptures/liber_III_ignis_stellaris.md), [`../scriptures/liber_IV_coniunctio.md`](../scriptures/liber_IV_coniunctio.md)
 
+**Dimensiones:** **Line** (and Plane in dyad/circle) — [`../philosophia/GEOMETRIA.md`](../philosophia/GEOMETRIA.md); Liber VI §§II–IV on Line.
+
 **Initiation:** [`19_initiation_resonance.md`](../rituals/19_initiation_resonance.md)
 
 **Seasonal:** [`17_solstice_resonance.md`](../rituals/17_solstice_resonance.md)

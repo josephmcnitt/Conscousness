@@ -2,6 +2,8 @@
 
 FEP primer. See [`../../FIELD_EXCITATION_PRACTICE.md`](../../FIELD_EXCITATION_PRACTICE.md).
 
+**Dimensiones:** You are a **Point** — localized Spark. Optional skim: [`../philosophia/GEOMETRIA.md`](../philosophia/GEOMETRIA.md) (Degree 0 only).
+
 **Rituals:** [`../rituals/grade_0/`](../rituals/grade_0/) (01–05)
 
 **Week 1–2:** Daily Ritual 01; add 04 after week 1.  

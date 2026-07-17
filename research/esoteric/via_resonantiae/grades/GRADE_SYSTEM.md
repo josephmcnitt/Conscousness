@@ -73,9 +73,11 @@ Evolved from [`../../core_frequency_protocol.md`](../../core_frequency_protocol.
 
 ## Grade IV — Integration
 
-**Focus:** Unity contemplation; community or solo Integration Mass.
+**Focus:** Unity contemplation; Being (Philosophia Dimensiones); community or solo Integration Mass.
 
-**Rituals:** 01–04, 08, 11, 12, 14, 15 | Seasonal: 16
+**Rituals:** 01–04, 08, 11, 12, 14, 15, optional 21 | Seasonal: 16
+
+**Study:** [`../philosophia/README.md`](../philosophia/README.md), Liber VI
 
 **Advance when:** Four Integration Masses completed; Dissonance Banishing used successfully if needed.
 
