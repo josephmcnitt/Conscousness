@@ -66,6 +66,21 @@
 - Knowing you are feeding the ego does not invalidate the rite  
 - Esotericism is **core infrastructure** for this panpsychism, not ornament  
 
+## D11 — Insight Follows Action
+
+**Insights usually come after action.** Speculation alone rarely feeds the ego; steps in Becoming (craft, ritual, care, Line) open what sitting-and-thinking postponed.
+
+- Act, then notice; journal Pathos after the deed  
+- Contemplation prepares; action often delivers  
+
+## D12 — Deep Consciousness Seasons Insight for the Ego
+
+**Frequent deep meditative / near-pure consciousness** helps insights (especially those after action) land as **fulfilling for the ego** — meaning and story that stick — not only as abstract noise.
+
+- Sit often; act; receive; let the ego keep what fits  
+- Does not replace care, myth, or STOP_CONDITIONS  
+- Pathos pattern, not laboratory law  
+
 ---
 
 ## Compact Creed (optional, non-binding)
@@ -73,6 +88,8 @@
 > Consciousness pervades.  
 > I am a Point with a Well.  
 > I feed body and ego with honest story.  
+> I sit in deep consciousness.  
+> I act — then receive the insight.  
 > I extend Lines without consuming.  
 > I honor the Plane.  
 > I contemplate Being without flood.  

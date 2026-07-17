@@ -82,6 +82,43 @@ Esotericism is not a side quest. It is **core infrastructure** for a panpsychism
 
 ---
 
+## Insight After Action
+
+On this Path, **insights usually arrive after action** — not from endless speculation alone.
+
+- Act in Becoming (craft, ritual, dyad, care, Line-work)  
+- Then notice what clarifies  
+- Journal in Pathos; do not demand the insight before the step  
+
+Sitting and thinking can prepare the Well. **Doing** often unlocks the teaching the ego can actually use.
+
+```mermaid
+flowchart LR
+    Act[Action in Becoming]
+    Sit[Deep meditative consciousness]
+    Insight[Insight]
+    Ego[Ego finds it fulfilling]
+
+    Act --> Insight
+    Sit --> Insight
+    Sit --> Ego
+    Insight --> Ego
+```
+
+---
+
+## Deep Consciousness Makes Insight Feed the Ego
+
+Frequent time in **deep meditative / near-pure consciousness** does not replace action. It **seasons** what action reveals:
+
+- Insights after action land cleaner when the Point has rested in minimal awareness  
+- The ego receives those insights as more **fulfilling** — meaning, dignity, story that fits — rather than as dry trivia or anxious noise  
+- So the cycle is: **care → myth → sit → act → insight → ego nourished → deeper sit**
+
+This is still Pathos for you, not Track A proof that meditation “works” as a general law.
+
+---
+
 ## Relation to Research Tracks
 
 | Track | Relation |

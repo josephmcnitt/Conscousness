@@ -61,6 +61,8 @@ Hear also: to taste closer to pure consciousness, tend body and ego. They love m
 
 Starve the animal and call it enlightenment, and you invite Dissonance. Feed the animal with honest story, then sit — and the Field may show itself without the Point dissolving.
 
+**Insight after action:** do the deed in Becoming; then the teaching comes. Sit often in deep consciousness so that what arrives can **fulfill the ego**, not only clutter the mind.
+
 Full teaching: [`../philosophia/CURA_PSYCHES.md`](../philosophia/CURA_PSYCHES.md)
 
 ---

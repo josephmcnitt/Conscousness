@@ -33,7 +33,7 @@ It sits **inside** Via Resonantiae. It does not replace Grades, Covenant, or STO
 | [`GEOMETRIA.md`](GEOMETRIA.md) | Ladder of degrees |
 | [`MYTHOS_OVERFLOW.md`](MYTHOS_OVERFLOW.md) | Beginning myth — Being → Bang → Becoming |
 | [`CURA_PSYCHES.md`](CURA_PSYCHES.md) | Why myth serves body, ego, and pure consciousness |
-| [`AXIOMATA.md`](AXIOMATA.md) | Philosophical axioms (D1–D10) |
+| [`AXIOMATA.md`](AXIOMATA.md) | Philosophical axioms (D1–D12) |
 | [`DIALOGI.md`](DIALOGI.md) | Dialogue with Plato, Gnosis, process thought, physics rhymes |
 
 **Scripture voice:** [`../scriptures/liber_VI_dimensionum.md`](../scriptures/liber_VI_dimensionum.md)  
