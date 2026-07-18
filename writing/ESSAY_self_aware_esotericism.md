@@ -25,6 +25,18 @@ Millions of technically-minded people have concluded that the old religions aren
 8. **What this is not** — not a new religion recruiting; not proof of panpsychism; not therapy. Stop conditions and the anti-guru covenant. Why I'm publishing an essay and not founding an order.
 9. **Invitation** — not "join," but "build your own, and keep the firewall." What a reader would need: a practice, a journal, a written charter of what practice may never prove.
 
+## Draft prose — Section 4: Cura Psyches (v0.1)
+
+The teaching at the center of the practice is called Cura Psyches — care of the psyche — and it inverts the usual spiritual instruction. Most contemplative traditions treat the ego as the obstacle: dissolve it, see through it, starve it. Cura Psyches says the opposite. The body and the ego are the walls of the well. Knock them down and you don't get liberation, you get flooding — dissociation, bleed, the spiritual bypass where a person floats above a life they've stopped tending.
+
+So the practice feeds the ego first, and does it in the open. The mythology — a field of consciousness, an overflow at the beginning of time, sparks with wells — is served to the ego the way a good meal is served: deliberately, with full knowledge of what's being done. The formula the practice hands you is almost embarrassing in its honesty: *I am giving my ego a cosmos so my attention can rest.*
+
+Here's what surprised me. Saying that sentence, knowing it completely, does not stop the resting. The attention still settles. The boredom still becomes comfortable. This shouldn't work — the whole rationalist instinct says a myth you can see through is a myth that's stopped functioning. But the placebo literature has been quietly reporting the same anomaly for a decade: open-label placebos, pills handed over with the words "this is inert," still move symptoms. The knowing and the working live on different floors of the building.
+
+Two corollary teachings fall out of this. First: insight follows action. The tradition is blunt that sitting and speculating rarely feeds anyone; you act — craft, ritual, care for another person — and the understanding arrives afterward, in the journal, once there's something for it to be about. Second: deep, low-content sits are what let those insights *stick* — the ego receives them as meaning it can keep, rather than trivia that evaporates. Care, then story, then sit, then act, then write down what arrived. That's the whole engine.
+
+---
+
 ## Notes
 
 - Tone: field report, not manifesto. Concrete journal excerpts (anonymized scores) over abstraction.
